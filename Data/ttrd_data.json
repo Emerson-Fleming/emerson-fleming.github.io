@@ -1,10 +1,554 @@
 {
   "members": [
-    {
-      "name": "Emerson Fleming",
-      "major": "CSE",
-      "position": "tech chair",
-      "image": ""
-    }
+      "Phi": [
+          {
+            "name": "Ashley Byrne",
+            "major": "Mechanical",
+            "position": "",
+            "email": "ashleybyrne12765@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Julia Dampier",
+            "major": "Biomedical",
+            "position": "",
+            "email": "juliadampier@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Max Dunlay",
+            "major": "Electrical",
+            "position": "",
+            "email": "maxadunlay@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Bryan Escatel-Jimenez",
+            "major": "Electrical",
+            "position": "",
+            "email": "Bryan.escatel9@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Emerson Fleming",
+            "major": "Computer Science",
+            "position": "Technology Chair",
+            "email": "efleming@nevada.unr.edu",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Morgan Hendrickson",
+            "major": "Environmental",
+            "position": "",
+            "email": "Morgan.hendrickson@icloud.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "McKenna Johnson",
+            "major": "Civil",
+            "position": "",
+            "email": "mckennajohnson@nevada.unr.edu",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Megan Kershaw",
+            "major": "Electrical",
+            "position": "",
+            "email": "megankershaw@nevada.unr.edu",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Aleena Kureekattil",
+            "major": "Biomedical",
+            "position": "",
+            "email": "mail2aleenask1@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Sean Morton",
+            "major": "Mining",
+            "position": "",
+            "email": "sean.a.morton1791@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Jana Navarro",
+            "major": "Biomedical",
+            "position": "",
+            "email": "jmnavrr@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Cade Schiller",
+            "major": "Mechanical",
+            "position": "",
+            "email": "cschiller@nevada.unr.edu",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Terrence Silva",
+            "major": "Mechanical",
+            "position": "",
+            "email": "terrencesilva5@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Terrence Silva",
+            "major": "Mechanical",
+            "position": "",
+            "email": "terrencesilva5@gmail.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Valerie Valdivia",
+            "major": "Environmental Science",
+            "position": "",
+            "email": "valerie.valdivia@outlook.com",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Nihara Wijekularatne",
+            "major": "Biotechnology",
+            "position": "",
+            "email": "niharawijekularatne@gmail.com",
+            "resume": "",
+            "image": ""
+          }
+      ],
+      "Upsilon": [
+          {
+            "name": "Isabella Abraham",
+            "major": "Environmental",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Maya Abraham",
+            "major": "Environmental",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Guilherme Cassiano",
+            "major": "Computer Science",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Melody Dorsey",
+            "major": "Electrical",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Brayden Fontanilla",
+            "major": "Mechanical",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Haley Grable",
+            "major": "Environmental",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Nolan Hagen",
+            "major": "Mechanical",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Joshua Herup",
+            "major": "Computer Science",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Jenavieve Layosa",
+            "major": "Computer Science",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Kyla Lowery",
+            "major": "Civil",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Shane Petree",
+            "major": "Computer Science",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Tanner Schultz",
+            "major": "Mechanical",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Alyse Schultz",
+            "major": "Civil",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Helen Truong",
+            "major": "Computer Science",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          },
+          {
+            "name": "Tayshawn Williams",
+            "major": "Electrical",
+            "position": "",
+            "email": "",
+            "resume": "",
+            "image": ""
+          }
+      ],
+      "Tau": [
+          {
+              "name": "Isabelle Amanuel",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Jarrod Burke",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Fiorina Chau",
+              "major": "Computer Science",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Alicia Chiang",
+              "major": "Computer Science",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Samantha Connolly",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Jayce Esplin",
+              "major": "Chemical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Lauren Feldman",
+              "major": "Computer Sceince",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Ethan Hanson",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Josh James",
+              "major": "Biomedical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Amberlee Ketten",
+              "major": "Civil",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Amanda Knowles",
+              "major": "Civil",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Grant Korte",
+              "major": "Biomedical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Zeyad Lateef",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Rowan Loranz",
+              "major": "Chemical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Ajith Mathew",
+              "major": "Environmental",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Timothy Ngo",
+              "major": "Computer Science",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Tiffany Noda",
+              "major": "Mechanical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Kim Ortega",
+              "major": "Biomedical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Alyssa Reichert",
+              "major": "Civil",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Dani Rinne",
+              "major": "Computer Science",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Sharyn Smith",
+              "major": "Computer Science",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Blake Spence",
+              "major": "Mechanical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Kaden Syme",
+              "major": "Mechanical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          }
+      ],
+      "Sigma": [
+          {
+              "name": "Brian Hill",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Daniela Pinto",
+              "major": "Environmental",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Eden Ansell",
+              "major": "Civil",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Isabella Costa",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Kyra Talusik",
+              "major": "Mechanical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Patricia Paylor",
+              "major": "Biomedical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Sophia Summerhill",
+              "major": "Mechanical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          }
+      ],
+      "Rho": [
+          {
+              "name": "Jansen Williams",
+              "major": "Civil",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          }
+      ],
+      "Pi": [
+          {
+              "name": "Chantelle Cabanilla",
+              "major": "Computer Science",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Aiden Hechavarria",
+              "major": "Civil",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Connor Jordan",
+              "major": "Electrical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          },
+          {
+              "name": "Sloan Williams",
+              "major": "Mechanical",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          }
+      ],
+      "Mu": [
+          {
+              "name": "Bryce Ford",
+              "major": "",
+              "position": "",
+              "email": "",
+              "resume": "",
+              "image": ""
+          }
+      ]
   ]
 }
