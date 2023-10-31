@@ -1,0 +1,198 @@
+<div id="cardsContainer"></div>
+<div id="buttonsContainer"></div>
+<div id="overlay" style="display: none; position: fixed; top: 0; bottom: 0; left: 0; right: 0; background-color: rgba(0,0,0,0.5); z-index: 100;"></div>
+<div class="video-popup" style="display: flex; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 101;">
+  <div class="video-popup-container"></div>
+</div>
+<style>
+  video{
+    width: 80vw;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+<script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  jQuery(function($){
+    function supportsHLS() {
+      var video = document.createElement('video');
+      return Boolean(video.canPlayType('application/vnd.apple.mpegURL') || video.canPlayType('audio/mpegurl'))
+    }
+    async function getData(offset, pageSize) {
+      $("#social").css("display","none");
+      const url = 'https://app-api-sandbox.goodtalk.frontrow.systems/rest/social/getBlogPostsForWebsite?pageSize=' + pageSize + '&offset=' + offset;
+      const response = await fetch(url);
+      const data = await response.json();
+      const totalRows = data.totalRows;
+      const rowsPerPage = data.payload.length;
+      let blogHeaderArray = new Array(rowsPerPage);
+      let dateArray = new Array(rowsPerPage);
+      let imageArray = new Array(rowsPerPage);
+      let idArray = new Array(rowsPerPage);
+      let categoryArray = new Array(rowsPerPage);
+      const cardContainer = $("#cardsContainer");
+      const sampleCard = $("#sampleCard");
+      sampleCard.show()
+      const buttonContainer = $("#buttonsContainer");
+      const sampleButton = buttonContainer.find("#sampleButton");
+      sampleCard.show()
+      sampleCard.removeAttr("id");
+      let clonedCardArray = [];
+      for (let i = 0; i < rowsPerPage; i++) {
+        if (sampleButton) {
+          sampleButton.css("fontWeight", "bold");
+          sampleButton.show();
+        }
+        $('#buttonsContainer').empty();
+        for (let j = 0; j < categoryArray.length; j++) {
+          if (data.payload[i].blogPost.somethingAnswers[j]) {
+            const clonedButton = sampleButton.clone();
+            clonedButton.text(data.payload[i].blogPost.somethingAnswers[j].answerShort.toUpperCase());
+            clonedButton.removeAttr("id");
+            buttonContainer.append(clonedButton);
+          }
+        }
+        const clonedCard = sampleCard.clone();
+        clonedCard.css("opacity", "1");
+        clonedCard.removeAttr("id");
+        clonedCard.addClass("fade-in");
+        clonedCardArray.push(clonedCard);
+        idArray[i] = data.payload[i].blogPost.id;
+        blogHeaderArray[i] = data.payload[i].blogPost.headerText;
+        dateArray[i] = data.payload[i].postAgeFormatted;
+        imageArray[i] = data.payload[i].blogPost.listImageFile.bigUrl;
+        categoryArray[i] = new Array(data.payload[i].blogPost.somethingAnswers.length);
+        if (i % 2 != 0 && checkView() === "Desktop") {
+          clonedCard.css("paddingTop", '100px');
+        }
+        $(window).on('resize', function () {
+          if (i % 2 != 0 && checkView() == "Desktop") {
+            clonedCard.css("paddingTop", '100px');
+          } else {
+            clonedCard.css("paddingTop", '0px');
+          }
+        });
+        const heading = clonedCard.find("#heading");
+        heading.text(blogHeaderArray[i]);
+        heading.on('click', function () {
+          document.location.href = "/blog?id=" + idArray[i];
+        });
+        const date = clonedCard.find("#date");
+        date.text(dateArray[i]);
+        const author = clonedCard.find('#author');
+        if (data.payload[i].blogPost.author != null) {
+          author.text("by " + data.payload[i].blogPost.author.name);
+        } else {
+          author.text("");
+          author.css("display", "none");
+        }
+        const image = clonedCard.find("#image");
+        if (data.payload[i].blogPost.listImageFile.bigUrl) {
+          image.attr("src", imageArray[i]);
+        }
+        else if(data.payload[i].blogPost.blogPostType == "MOTIVATIONAL_VIDEO"){
+          image.attr('src', data.payload[i].socialFile.bigUrl);
+        }
+        const playImage = clonedCard.find("#playImage");
+        if (data.payload[i].blogPost.blogPostType === "GENERAL_BLOG_POST") {
+          playImage.css("display", "none");
+        }
+        const imageBlock = clonedCard.find("#imageBlock");
+        imageBlock.on('click', function () {
+          if (data.payload[i].blogPost.blogPostType === "GENERAL_BLOG_POST") {
+            document.location.href = "/blog?id=" + idArray[i];
+          } else if (data.payload[i].blogPost.blogPostType === "MOTIVATIONAL_VIDEO") {
+            const videoProcessedAndroidUrl = data.payload[i].socialFile.videoProcessedAndroidUrl;
+            const videoProcessedAppleUrl = data.payload[i].socialFile.videoProcessedAppleUrl;
+            console.log(videoProcessedAndroidUrl)
+            console.log(videoProcessedAppleUrl)
+            if (window.MediaSource) {
+              var videoEl = $('<video playsinline controls></video>').appendTo('.video-popup-container');
+              var player = dashjs.MediaPlayer().create();
+              player.initialize(videoEl[0], videoProcessedAndroidUrl, true);
+            } else if (supportsHLS()) {
+              var videoEl = $('<video playsinline controls><source src="' + videoProcessedAppleUrl + '" type="application/x-mpegURL"></video>').appendTo('.video-popup-container');
+              videoEl[0].play();
+            }
+            $('.video-popup').fadeIn(300);
+            $('#overlay').css("display", 'block');
+            $('#social').css("display",'flex');
+            const link = window.location.href + "/blog?id=" + idArray[i];
+            const f = $("#facebook");
+            const insta = $("#instagram");
+            const t = $("#twitter");
+            const m = encodeURIComponent("Check out this blog on The GoodTalk: ");
+            const title = encodeURIComponent($('title').text());
+            f.on('click', function() {document.location.href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURI(link)}`;});
+            insta.on('click', function() {document.location.href = `https://instagram.com/thegoodtalkapp?igshid=MzRlODBiNWFlZA==`;});
+            t.on('click', function() {document.location.href = `http://twitter.com/share?url=${encodeURIComponent(link)}&text=${m}&hashtags=`;});
+          }
+        });
+        $('#overlay').on('click', function () {
+          $('.video-popup').css("display", 'none');
+          $('#overlay').css("display", 'none');
+          $('.video-popup-container video').remove();
+          $("#social").css("display","none");
+        });
+        cardContainer.append(clonedCard);
+        sampleButton.css("display", "none");
+      }
+      const prev = $("#prev");
+      const next = $("#next");
+      let pageNum = (offset / pageSize) + 1;
+      const pageNumText = $("#pageNum");
+      let noPrev = false;
+      let noNext = false;
+      pageNumText.text("Page " + pageNum);
+      if (offset === 0) {
+        prev.css("display", "none");
+        noPrev = true;
+      }
+      if (pageNum * pageSize >= totalRows) {
+        next.css("display", "none");
+        noNext = true;
+      }
+      if (noPrev && noNext) {
+        pageNumText.css("display", "none");
+      }
+      prev.on('click', function () {
+        offset = offset - pageSize;
+        localStorage.setItem('offset', offset);
+        window.location.reload();
+      });
+      next.on('click', function () {
+        offset = offset + pageSize;
+        localStorage.setItem('offset', offset);
+        window.location.reload();
+      });
+      sampleCard.css("display", "none");
+      const loadContainer = $("#loadContainer");
+      let lcOpacity = 0;
+      let interval = 10;
+      let increment = 1 / (1000 / interval);
+      let lcInterval = setInterval(function () {
+        if (lcOpacity < 1) {
+          lcOpacity = lcOpacity + increment;
+          loadContainer.css("opacity", lcOpacity);
+        } else {
+          clearInterval(lcInterval);
+        }
+      }, interval);
+    }
+    function checkView() {
+      if (window.innerWidth <= 767) {
+        return "Mobile";
+      } else {
+        return "Desktop";
+      }
+    }
+    const pageSize = 10;
+    let offset = parseInt(localStorage.getItem('offset')) || 0;
+    if (isNaN(offset) || offset < 0 || offset % pageSize !== 0) {
+      offset = 0;
+    }
+    localStorage.setItem('offset', offset);
+    getData(offset, pageSize);
+  });
+</script>
