@@ -1,5 +1,5 @@
 {
-  "members": [
+  "members": {
       "Phi": [
           {
             "name": "Ashley Byrne",
@@ -550,5 +550,5 @@
               "image": ""
           }
       ]
-  ]
+  }
 }
