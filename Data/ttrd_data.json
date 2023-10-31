@@ -1,6 +1,6 @@
 {
   "members": {
-      "Phi": {
+      "Phi": [
           {
             "name": "Ashley Byrne",
             "major": "Mechanical",
@@ -129,8 +129,8 @@
             "resume": "",
             "image": ""
           }
-      },
-      "Upsilon": {
+      ],
+      "Upsilon": [
           {
             "name": "Isabella Abraham",
             "major": "Environmental",
@@ -251,8 +251,8 @@
             "resume": "",
             "image": ""
           }
-      },
-      "Tau": {
+      ],
+      "Tau": [
           {
               "name": "Isabelle Amanuel",
               "major": "Electrical",
@@ -437,8 +437,8 @@
               "resume": "",
               "image": ""
           }
-      },
-      "Sigma": {
+      ],
+      "Sigma": [
           {
               "name": "Brian Hill",
               "major": "Electrical",
@@ -495,8 +495,8 @@
               "resume": "",
               "image": ""
           }
-      },
-      "Rho": {
+      ],
+      "Rho": [
           {
               "name": "Jansen Williams",
               "major": "Civil",
@@ -505,8 +505,8 @@
               "resume": "",
               "image": ""
           }
-      },
-      "Pi": {
+      ],
+      "Pi": [
           {
               "name": "Chantelle Cabanilla",
               "major": "Computer Science",
@@ -539,8 +539,8 @@
               "resume": "",
               "image": ""
           }
-      },
-      "Mu": {
+      ],
+      "Mu": [
           {
               "name": "Bryce Ford",
               "major": "",
@@ -549,6 +549,6 @@
               "resume": "",
               "image": ""
           }
-      }
+      ]
   }
 }
