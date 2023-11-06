@@ -2,28 +2,30 @@
 <html>
 <head>
     <title>Images Folder Contents</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-    </style>
 </head>
 <body>
     <h1>Images Folder Contents</h1>
-    <pre id="folder-contents"></pre>
-
+    <ul id="file-list"></ul>
+    
     <script>
         // Function to list folder contents.
         async function listFolderContents() {
-            // Assuming your images are in the 'images' folder within your repository.
-            const folderURL = './';
-
+            const folderURL = 'https://emerson-fleming.github.io/Images';
             const response = await fetch(folderURL);
+            
             if (response.ok) {
                 const text = await response.text();
-                document.getElementById('folder-contents').textContent = text;
+                const files = text.split('\n').filter(file => file.trim() !== '');
+
+                const fileList = document.getElementById('file-list');
+                files.forEach(file => {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = file;
+                    fileList.appendChild(listItem);
+                });
             } else {
-                document.getElementById('folder-contents').textContent = 'Failed to retrieve folder contents.';
+                const fileList = document.getElementById('file-list');
+                fileList.textContent = 'Failed to retrieve folder contents.';
             }
         }
 
