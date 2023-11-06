@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Images Folder Contents</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Images Folder Contents</h1>
+    <pre id="folder-contents"></pre>
+
+    <script>
+        // Function to list folder contents.
+        async function listFolderContents() {
+            // Assuming your images are in the 'images' folder within your repository.
+            const folderURL = './';
+
+            const response = await fetch(folderURL);
+            if (response.ok) {
+                const text = await response.text();
+                document.getElementById('folder-contents').textContent = text;
+            } else {
+                document.getElementById('folder-contents').textContent = 'Failed to retrieve folder contents.';
+            }
+        }
+
+        // Call the function to list folder contents when the page loads.
+        listFolderContents();
+    </script>
+</body>
+</html>
