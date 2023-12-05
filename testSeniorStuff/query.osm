@@ -1,0 +1,10 @@
+[out:json];
+area[name="United States"]->.searchArea;
+(
+  node["amenity"="university"](area.searchArea);
+  way["amenity"="university"](area.searchArea);
+  relation["amenity"="university"](area.searchArea);
+);
+out body;
+>;
+out skel qt;
