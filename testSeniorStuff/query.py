@@ -28,8 +28,8 @@ async def fetch_universities_in_bbox(session, south, west, north, east):
         return None
 
 async def main():
-    bounding_boxes = [(lat, lon, lat + 60, lon + 60)
-                      for lat in range(-90, 90, 60) for lon in range(-180, 180, 60)]
+    bounding_boxes = [(lat, lon, lat + 18, lon + 18)
+                      for lat in range(-90, 90, 18) for lon in range(-180, 180, 18)]
     universities = []
     async with aiohttp.ClientSession() as session:
         for i, bbox in enumerate(bounding_boxes):
