@@ -1,0 +1,3698 @@
+[
+    {
+        "name": "Queen's University - West Campus",
+        "latitude": 44.2268772,
+        "longitude": -76.5153102,
+        "country": "Unknown"
+    },
+    {
+        "name": "Central Penn College",
+        "latitude": 40.3044017,
+        "longitude": -76.9352942,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lycoming College",
+        "latitude": 41.2453309,
+        "longitude": -76.999534,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Toronto",
+        "latitude": 43.663461,
+        "longitude": -79.3948727,
+        "country": "Unknown"
+    },
+    {
+        "name": "Queen's University",
+        "latitude": 44.2264818,
+        "longitude": -76.4957573,
+        "country": "Unknown"
+    },
+    {
+        "name": "Royal Military College",
+        "latitude": 44.23151,
+        "longitude": -76.4673849,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Toronto at Scarborough",
+        "latitude": 43.7875571,
+        "longitude": -79.1890233,
+        "country": "Unknown"
+    },
+    {
+        "name": "York University, Keele Campus",
+        "latitude": 43.7742266,
+        "longitude": -79.5048881,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bloomsburg University",
+        "latitude": 41.0089547,
+        "longitude": -76.4472248,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bloomsburg University of Pennsylvania",
+        "latitude": 41.0166529,
+        "longitude": -76.4489459,
+        "country": "Unknown"
+    },
+    {
+        "name": "McMaster University",
+        "latitude": 43.2639471,
+        "longitude": -79.9173631,
+        "country": "Unknown"
+    },
+    {
+        "name": "Glendon Campus of York University",
+        "latitude": 43.7283508,
+        "longitude": -79.3776477,
+        "country": "Unknown"
+    },
+    {
+        "name": "Recreation and Athletics Centre",
+        "latitude": 43.6584195,
+        "longitude": -79.3792056,
+        "country": "Unknown"
+    },
+    {
+        "name": "E51 Tang Center",
+        "latitude": 42.36063,
+        "longitude": -71.0844472,
+        "country": "Unknown"
+    },
+    {
+        "name": "Stevens Institute of Technology",
+        "latitude": 40.7448591,
+        "longitude": -74.025557,
+        "country": "Unknown"
+    },
+    {
+        "name": "Institute for Advanced Study",
+        "latitude": 40.3323482,
+        "longitude": -74.6657889,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY College at Buffalo",
+        "latitude": 42.9335864,
+        "longitude": -78.8835699,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kutztown University of Pennsylvania",
+        "latitude": 40.5098354,
+        "longitude": -75.7836375,
+        "country": "Unknown"
+    },
+    {
+        "name": "Longfellow Building",
+        "latitude": 42.3754676,
+        "longitude": -71.1219867,
+        "country": "Unknown"
+    },
+    {
+        "name": "Putnam Building",
+        "latitude": 42.3752762,
+        "longitude": -71.1225267,
+        "country": "Unknown"
+    },
+    {
+        "name": "Engineering Science Lab",
+        "latitude": 42.379992,
+        "longitude": -71.1161319,
+        "country": "Unknown"
+    },
+    {
+        "name": "Littauer Center",
+        "latitude": 42.3764233,
+        "longitude": -71.1182405,
+        "country": "Unknown"
+    },
+    {
+        "name": "David J. Sargent Hall",
+        "latitude": 42.3566999,
+        "longitude": -71.0610502,
+        "country": "Unknown"
+    },
+    {
+        "name": "Myles Standish Hall",
+        "latitude": 42.3496731,
+        "longitude": -71.09443,
+        "country": "Unknown"
+    },
+    {
+        "name": "Benjamin Franklin Institute of Technology",
+        "latitude": 42.3460348,
+        "longitude": -71.0701357,
+        "country": "Unknown"
+    },
+    {
+        "name": "Byerly Hall",
+        "latitude": 42.3759803,
+        "longitude": -71.1218637,
+        "country": "Unknown"
+    },
+    {
+        "name": "Divinity Hall",
+        "latitude": 42.3786271,
+        "longitude": -71.1142864,
+        "country": "Unknown"
+    },
+    {
+        "name": "CGIS South",
+        "latitude": 42.3750256,
+        "longitude": -71.11314,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fay House",
+        "latitude": 42.3762293,
+        "longitude": -71.122346,
+        "country": "Unknown"
+    },
+    {
+        "name": "CGIS Knafel",
+        "latitude": 42.3756451,
+        "longitude": -71.1132566,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Dartmouth Marine Campus",
+        "latitude": 41.595572,
+        "longitude": -70.9083472,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bridgewater State University",
+        "latitude": 41.9883282,
+        "longitude": -70.9624623,
+        "country": "Unknown"
+    },
+    {
+        "name": "Larsen Building",
+        "latitude": 42.375421,
+        "longitude": -71.1212915,
+        "country": "Unknown"
+    },
+    {
+        "name": "Buckingham House",
+        "latitude": 42.3755387,
+        "longitude": -71.1228682,
+        "country": "Unknown"
+    },
+    {
+        "name": "Knowles Center",
+        "latitude": 42.3392099,
+        "longitude": -71.0908704,
+        "country": "Unknown"
+    },
+    {
+        "name": "Westfield State University",
+        "latitude": 42.1339812,
+        "longitude": -72.7967279,
+        "country": "Unknown"
+    },
+    {
+        "name": "Westfield State University South Campus",
+        "latitude": 42.1265136,
+        "longitude": -72.8036714,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bard College at Simon's Rock",
+        "latitude": 42.2069244,
+        "longitude": -73.3781365,
+        "country": "Unknown"
+    },
+    {
+        "name": "Blackstone South",
+        "latitude": 42.3636136,
+        "longitude": -71.1150022,
+        "country": "Unknown"
+    },
+    {
+        "name": "Pforzheimer House",
+        "latitude": 42.382284,
+        "longitude": -71.1250126,
+        "country": "Unknown"
+    },
+    {
+        "name": "Framingham State University",
+        "latitude": 42.2979733,
+        "longitude": -71.43708,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard Yard",
+        "latitude": 42.3741259,
+        "longitude": -71.1166692,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clock Farm (Stonehill College)",
+        "latitude": 42.05893,
+        "longitude": -71.0894105,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Lowell North Campus",
+        "latitude": 42.6551416,
+        "longitude": -71.3248095,
+        "country": "Unknown"
+    },
+    {
+        "name": "University Hall",
+        "latitude": 42.3872747,
+        "longitude": -71.1185971,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Lowell South Campus",
+        "latitude": 42.641547,
+        "longitude": -71.3359425,
+        "country": "Unknown"
+    },
+    {
+        "name": "Stonehill College",
+        "latitude": 42.0594979,
+        "longitude": -71.0791791,
+        "country": "Unknown"
+    },
+    {
+        "name": "Westfield State University East Campus",
+        "latitude": 42.1287586,
+        "longitude": -72.7862518,
+        "country": "Unknown"
+    },
+    {
+        "name": "Radcliffe Yard",
+        "latitude": 42.3756986,
+        "longitude": -71.1222908,
+        "country": "Unknown"
+    },
+    {
+        "name": "Tufts Dental School",
+        "latitude": 42.3504878,
+        "longitude": -71.0629124,
+        "country": "Unknown"
+    },
+    {
+        "name": "Mount Ida Campus of UMass Amherst",
+        "latitude": 42.2941345,
+        "longitude": -71.1924578,
+        "country": "Unknown"
+    },
+    {
+        "name": "Elms College",
+        "latitude": 42.1420306,
+        "longitude": -72.600007,
+        "country": "Unknown"
+    },
+    {
+        "name": "Hastings Building",
+        "latitude": 42.3774864,
+        "longitude": -71.1195819,
+        "country": "Unknown"
+    },
+    {
+        "name": "Arcadia University",
+        "latitude": 40.0916313,
+        "longitude": -75.1661335,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New England",
+        "latitude": 43.6835706,
+        "longitude": -70.2959585,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Southern Maine",
+        "latitude": 43.6622054,
+        "longitude": -70.2756625,
+        "country": "Unknown"
+    },
+    {
+        "name": "Wilkes University",
+        "latitude": 41.244273,
+        "longitude": -75.8897741,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Saint Joseph",
+        "latitude": 41.7825203,
+        "longitude": -72.7315665,
+        "country": "Unknown"
+    },
+    {
+        "name": "Molloy University",
+        "latitude": 40.6862419,
+        "longitude": -73.6273547,
+        "country": "Unknown"
+    },
+    {
+        "name": "Georgian Court University",
+        "latitude": 40.0980744,
+        "longitude": -74.2264581,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Toronto Mississauga Campus",
+        "latitude": 43.5481122,
+        "longitude": -79.663182,
+        "country": "Unknown"
+    },
+    {
+        "name": "St. John's University",
+        "latitude": 40.6213236,
+        "longitude": -74.0911603,
+        "country": "Unknown"
+    },
+    {
+        "name": "Murray H. Goodman Campus",
+        "latitude": 40.5858288,
+        "longitude": -75.3580706,
+        "country": "Unknown"
+    },
+    {
+        "name": "UNH Systems Offices Christmas Tree Farm",
+        "latitude": 43.1509434,
+        "longitude": -71.0113896,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New Hampshire",
+        "latitude": 43.1401354,
+        "longitude": -70.9576862,
+        "country": "Unknown"
+    },
+    {
+        "name": "UNH - MacDonald Lot",
+        "latitude": 43.1221767,
+        "longitude": -70.9275674,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kingman Farm",
+        "latitude": 43.1729122,
+        "longitude": -70.9358055,
+        "country": "Unknown"
+    },
+    {
+        "name": "East Foss Farm",
+        "latitude": 43.1189694,
+        "longitude": -70.9351282,
+        "country": "Unknown"
+    },
+    {
+        "name": "Davis Park",
+        "latitude": 43.1024869,
+        "longitude": -70.976149,
+        "country": "Unknown"
+    },
+    {
+        "name": "Innovation Park",
+        "latitude": 40.8308778,
+        "longitude": -77.845779,
+        "country": "Unknown"
+    },
+    {
+        "name": "Seton Hall University",
+        "latitude": 40.7427378,
+        "longitude": -74.2462216,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Harrisburg",
+        "latitude": 40.2030492,
+        "longitude": -76.7468851,
+        "country": "Unknown"
+    },
+    {
+        "name": "Sacred Heart University",
+        "latitude": 41.2226947,
+        "longitude": -73.2433811,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fordham University",
+        "latitude": 40.8616978,
+        "longitude": -73.8856215,
+        "country": "Unknown"
+    },
+    {
+        "name": "Barnard College",
+        "latitude": 40.8095053,
+        "longitude": -73.9635338,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lehman Hall",
+        "latitude": 44.6610023,
+        "longitude": -74.9754607,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bowman Hall",
+        "latitude": 44.6608061,
+        "longitude": -74.9726873,
+        "country": "Unknown"
+    },
+    {
+        "name": "Barrington Student Union",
+        "latitude": 44.6621586,
+        "longitude": -74.9739208,
+        "country": "Unknown"
+    },
+    {
+        "name": "Knowles",
+        "latitude": 44.6625841,
+        "longitude": -74.9713579,
+        "country": "Unknown"
+    },
+    {
+        "name": "Knowles Hall",
+        "latitude": 44.6627998,
+        "longitude": -74.9715456,
+        "country": "Unknown"
+    },
+    {
+        "name": "Knowles North",
+        "latitude": 44.6632099,
+        "longitude": -74.9719138,
+        "country": "Unknown"
+    },
+    {
+        "name": "Schuette Hall",
+        "latitude": 44.6655702,
+        "longitude": -74.9720849,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bishop Hall",
+        "latitude": 44.6648704,
+        "longitude": -74.9714654,
+        "country": "Unknown"
+    },
+    {
+        "name": "Stowell Hall",
+        "latitude": 44.6631093,
+        "longitude": -74.9739211,
+        "country": "Unknown"
+    },
+    {
+        "name": "Timerman Hall",
+        "latitude": 44.6636976,
+        "longitude": -74.9732315,
+        "country": "Unknown"
+    },
+    {
+        "name": "Merritt Hall",
+        "latitude": 44.6641404,
+        "longitude": -74.974017,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kellas Hall",
+        "latitude": 44.6649254,
+        "longitude": -74.9743414,
+        "country": "Unknown"
+    },
+    {
+        "name": "Stillman Computing Center",
+        "latitude": 44.6649644,
+        "longitude": -74.9752339,
+        "country": "Unknown"
+    },
+    {
+        "name": "MacVicar Hall",
+        "latitude": 44.6646342,
+        "longitude": -74.9756426,
+        "country": "Unknown"
+    },
+    {
+        "name": "Morey Hall",
+        "latitude": 44.6641571,
+        "longitude": -74.9766445,
+        "country": "Unknown"
+    },
+    {
+        "name": "Carson Hall",
+        "latitude": 44.6643035,
+        "longitude": -74.9760589,
+        "country": "Unknown"
+    },
+    {
+        "name": "Raymond Hall",
+        "latitude": 44.6647182,
+        "longitude": -74.9762723,
+        "country": "Unknown"
+    },
+    {
+        "name": "Flagg Hall",
+        "latitude": 44.663678,
+        "longitude": -74.9773478,
+        "country": "Unknown"
+    },
+    {
+        "name": "Radcliffe Gym",
+        "latitude": 42.3762446,
+        "longitude": -71.1227814,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kean University East Campus",
+        "latitude": 40.6812709,
+        "longitude": -74.2254573,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lamont-Doherty Earth Observatory",
+        "latitude": 41.0046818,
+        "longitude": -73.9090858,
+        "country": "Unknown"
+    },
+    {
+        "name": "Engineering Technology Laboratory",
+        "latitude": 40.1981181,
+        "longitude": -76.7446628,
+        "country": "Unknown"
+    },
+    {
+        "name": "Susquehanna Building",
+        "latitude": 40.1997314,
+        "longitude": -76.7396007,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fleet Services",
+        "latitude": 40.2017809,
+        "longitude": -76.7517493,
+        "country": "Unknown"
+    },
+    {
+        "name": "Church Hall",
+        "latitude": 40.203911,
+        "longitude": -76.7511611,
+        "country": "Unknown"
+    },
+    {
+        "name": "Wriseburg Hall",
+        "latitude": 40.2032353,
+        "longitude": -76.751571,
+        "country": "Unknown"
+    },
+    {
+        "name": "Dining Hall",
+        "latitude": 40.2034786,
+        "longitude": -76.7511405,
+        "country": "Unknown"
+    },
+    {
+        "name": "Stepping Stones Daycare",
+        "latitude": 40.2023367,
+        "longitude": -76.7515749,
+        "country": "Unknown"
+    },
+    {
+        "name": "Boston College (Brighton Campus)",
+        "latitude": 42.3431762,
+        "longitude": -71.1609956,
+        "country": "Unknown"
+    },
+    {
+        "name": "Peyton Hall",
+        "latitude": 44.6678599,
+        "longitude": -74.9790789,
+        "country": "Unknown"
+    },
+    {
+        "name": "Damon Hall",
+        "latitude": 44.6682326,
+        "longitude": -74.9789812,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clarkson Hall",
+        "latitude": 44.6679211,
+        "longitude": -74.9797876,
+        "country": "Unknown"
+    },
+    {
+        "name": "Old Main",
+        "latitude": 44.6681065,
+        "longitude": -74.980582,
+        "country": "Unknown"
+    },
+    {
+        "name": "Liberal Arts Building",
+        "latitude": 44.6677007,
+        "longitude": -74.9810526,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lewis Hall",
+        "latitude": 44.6682491,
+        "longitude": -74.9812703,
+        "country": "Unknown"
+    },
+    {
+        "name": "Old Snell Hall",
+        "latitude": 44.6692589,
+        "longitude": -74.9810668,
+        "country": "Unknown"
+    },
+    {
+        "name": "Congdon House",
+        "latitude": 44.6689647,
+        "longitude": -74.9804544,
+        "country": "Unknown"
+    },
+    {
+        "name": "Dunn Hall",
+        "latitude": 44.662607,
+        "longitude": -74.9751551,
+        "country": "Unknown"
+    },
+    {
+        "name": "Thatcher Hall",
+        "latitude": 44.6619383,
+        "longitude": -74.9746815,
+        "country": "Unknown"
+    },
+    {
+        "name": "Van Housen Hall",
+        "latitude": 44.6612707,
+        "longitude": -74.9740786,
+        "country": "Unknown"
+    },
+    {
+        "name": "Van Housen Extension",
+        "latitude": 44.6609469,
+        "longitude": -74.9740197,
+        "country": "Unknown"
+    },
+    {
+        "name": "Draime Hall",
+        "latitude": 44.6619659,
+        "longitude": -74.9727278,
+        "country": "Unknown"
+    },
+    {
+        "name": "Draime Hall Extension",
+        "latitude": 44.6617372,
+        "longitude": -74.9723445,
+        "country": "Unknown"
+    },
+    {
+        "name": "Satterlee Hall",
+        "latitude": 44.662873,
+        "longitude": -74.9767261,
+        "country": "Unknown"
+    },
+    {
+        "name": "Brainerd Hall",
+        "latitude": 44.6622633,
+        "longitude": -74.9760322,
+        "country": "Unknown"
+    },
+    {
+        "name": "Sisson Hall",
+        "latitude": 44.6626323,
+        "longitude": -74.9733869,
+        "country": "Unknown"
+    },
+    {
+        "name": "Crane School of Music",
+        "latitude": 44.6652256,
+        "longitude": -74.9717734,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Connecticut School of Law",
+        "latitude": 41.7716991,
+        "longitude": -72.7071849,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New Haven",
+        "latitude": 41.2909847,
+        "longitude": -72.9625824,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kehr Union Building",
+        "latitude": 41.0065868,
+        "longitude": -76.4501486,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rhode Island College",
+        "latitude": 41.841754,
+        "longitude": -71.4610128,
+        "country": "Unknown"
+    },
+    {
+        "name": "Providence College",
+        "latitude": 41.8442842,
+        "longitude": -71.4348034,
+        "country": "Unknown"
+    },
+    {
+        "name": "Ellen Battell Stoeckel Estate",
+        "latitude": 41.9903171,
+        "longitude": -73.2031323,
+        "country": "Unknown"
+    },
+    {
+        "name": "Cairn University",
+        "latitude": 40.1666259,
+        "longitude": -74.907439,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York at New Paltz",
+        "latitude": 41.7385565,
+        "longitude": -74.0850606,
+        "country": "Unknown"
+    },
+    {
+        "name": "UNH Recreational Area",
+        "latitude": 43.1672488,
+        "longitude": -71.0584224,
+        "country": "Unknown"
+    },
+    {
+        "name": "Allbritton Center",
+        "latitude": 41.5542358,
+        "longitude": -72.6560024,
+        "country": "Unknown"
+    },
+    {
+        "name": "Music Department",
+        "latitude": 41.5579962,
+        "longitude": -72.6565655,
+        "country": "Unknown"
+    },
+    {
+        "name": "Thomas Jefferson University East Falls Campus",
+        "latitude": 40.0201457,
+        "longitude": -75.1921065,
+        "country": "Unknown"
+    },
+    {
+        "name": "Drew University",
+        "latitude": 40.7605863,
+        "longitude": -74.4267348,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Toronto - Faculty of Dentistry",
+        "latitude": 43.656292,
+        "longitude": -79.3870627,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rehabilitation Sciences Building",
+        "latitude": 43.6554489,
+        "longitude": -79.3891627,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Buffalo - South Campus",
+        "latitude": 42.9537866,
+        "longitude": -78.819001,
+        "country": "Unknown"
+    },
+    {
+        "name": "Villanova University",
+        "latitude": 40.0368497,
+        "longitude": -75.3421891,
+        "country": "Unknown"
+    },
+    {
+        "name": "Vistual Sudies Workshop",
+        "latitude": 43.1574392,
+        "longitude": -77.5912563,
+        "country": "Unknown"
+    },
+    {
+        "name": "Visual Studies Workshop",
+        "latitude": 43.1576797,
+        "longitude": -77.5918737,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bryant University",
+        "latitude": 41.9221479,
+        "longitude": -71.5381096,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fairfield University",
+        "latitude": 41.1593875,
+        "longitude": -73.2570673,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lehman College of the City University of New York",
+        "latitude": 40.8728423,
+        "longitude": -73.8945827,
+        "country": "Unknown"
+    },
+    {
+        "name": "Woodman Horticulture Farm",
+        "latitude": 43.1498776,
+        "longitude": -70.9424283,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clarkson University",
+        "latitude": 44.6595169,
+        "longitude": -75.0046756,
+        "country": "Unknown"
+    },
+    {
+        "name": "Simmons University",
+        "latitude": 42.3389641,
+        "longitude": -71.1004337,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Albany Downtown Campus",
+        "latitude": 42.6606179,
+        "longitude": -73.77198,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Albany - Alumni Quad",
+        "latitude": 42.6639977,
+        "longitude": -73.7806098,
+        "country": "Unknown"
+    },
+    {
+        "name": "Worcester Polytechnic Institute - Gateway Park Campus",
+        "latitude": 42.275453,
+        "longitude": -71.7988409,
+        "country": "Unknown"
+    },
+    {
+        "name": "Assumption University",
+        "latitude": 42.2953324,
+        "longitude": -71.8290745,
+        "country": "Unknown"
+    },
+    {
+        "name": "College of the Holy Cross",
+        "latitude": 42.2367865,
+        "longitude": -71.8070867,
+        "country": "Unknown"
+    },
+    {
+        "name": "Long Island University C W Post Campus",
+        "latitude": 40.8150924,
+        "longitude": -73.5922912,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rochester Institute of Technology",
+        "latitude": 43.0824447,
+        "longitude": -77.6713513,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Albany East Campus",
+        "latitude": 42.6276476,
+        "longitude": -73.7381208,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clarkson University",
+        "latitude": 44.6683641,
+        "longitude": -74.9803103,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York at Potsdam",
+        "latitude": 44.6605294,
+        "longitude": -74.9725892,
+        "country": "Unknown"
+    },
+    {
+        "name": "Siena College",
+        "latitude": 42.7192125,
+        "longitude": -73.749945,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Lowell East Campus",
+        "latitude": 42.6518898,
+        "longitude": -71.3180162,
+        "country": "Unknown"
+    },
+    {
+        "name": "Ames Building",
+        "latitude": 42.6507835,
+        "longitude": -71.3149863,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York University",
+        "latitude": 40.7290994,
+        "longitude": -73.9958943,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rockefeller University",
+        "latitude": 40.7622739,
+        "longitude": -73.9559517,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fordham University Lincoln Center Campus",
+        "latitude": 40.7710067,
+        "longitude": -73.9851947,
+        "country": "Unknown"
+    },
+    {
+        "name": "The City College of New York",
+        "latitude": 40.818152,
+        "longitude": -73.9500391,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Buffalo - North Campus",
+        "latitude": 43.0020195,
+        "longitude": -78.786654,
+        "country": "Unknown"
+    },
+    {
+        "name": "Boston College - Newton Campus",
+        "latitude": 42.3428738,
+        "longitude": -71.1933264,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York at Fredonia",
+        "latitude": 42.4529507,
+        "longitude": -79.3401824,
+        "country": "Unknown"
+    },
+    {
+        "name": "Canevin Hall (DU)",
+        "latitude": 40.4362543,
+        "longitude": -79.9922963,
+        "country": "Unknown"
+    },
+    {
+        "name": "Duquesne University",
+        "latitude": 40.4364741,
+        "longitude": -79.9905544,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lavel House (DU)",
+        "latitude": 40.43625,
+        "longitude": -79.9916865,
+        "country": "Unknown"
+    },
+    {
+        "name": "College Hall (DU)",
+        "latitude": 40.4366152,
+        "longitude": -79.9900877,
+        "country": "Unknown"
+    },
+    {
+        "name": "Brottier Hall",
+        "latitude": 40.4374411,
+        "longitude": -79.9931044,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rockwell Hall (School of Business) (DU)",
+        "latitude": 40.4375421,
+        "longitude": -79.9937029,
+        "country": "Unknown"
+    },
+    {
+        "name": "Administration Building",
+        "latitude": 40.4358101,
+        "longitude": -79.9931005,
+        "country": "Unknown"
+    },
+    {
+        "name": "Assumption Hall (DU)",
+        "latitude": 40.4354734,
+        "longitude": -79.9872169,
+        "country": "Unknown"
+    },
+    {
+        "name": "Trinity Hall (DU)",
+        "latitude": 40.4364902,
+        "longitude": -79.9938722,
+        "country": "Unknown"
+    },
+    {
+        "name": "Duquesne University Student Union",
+        "latitude": 40.4366192,
+        "longitude": -79.990859,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Pittsburgh - Bradford Campus",
+        "latitude": 41.9447368,
+        "longitude": -78.6721546,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harrisburg University of Science and Technology",
+        "latitude": 40.2619401,
+        "longitude": -76.8803471,
+        "country": "Unknown"
+    },
+    {
+        "name": "Utica University",
+        "latitude": 43.0972282,
+        "longitude": -75.2713886,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York Polytechnic Institute",
+        "latitude": 43.1380481,
+        "longitude": -75.2276318,
+        "country": "Unknown"
+    },
+    {
+        "name": "156 High Street",
+        "latitude": 41.5537366,
+        "longitude": -72.6535265,
+        "country": "Unknown"
+    },
+    {
+        "name": "Religious Studies Center",
+        "latitude": 41.5540784,
+        "longitude": -72.6538996,
+        "country": "Unknown"
+    },
+    {
+        "name": "Hartwick College",
+        "latitude": 42.4600113,
+        "longitude": -75.0747134,
+        "country": "Unknown"
+    },
+    {
+        "name": "Columbia University, Manhattanville Campus",
+        "latitude": 40.8176967,
+        "longitude": -73.9577202,
+        "country": "Unknown"
+    },
+    {
+        "name": "Union Theological Seminary",
+        "latitude": 40.8114355,
+        "longitude": -73.962125,
+        "country": "Unknown"
+    },
+    {
+        "name": "Jewish Theological Seminary",
+        "latitude": 40.8117892,
+        "longitude": -73.9600463,
+        "country": "Unknown"
+    },
+    {
+        "name": "Manhattan School of Music",
+        "latitude": 40.8125196,
+        "longitude": -73.9613265,
+        "country": "Unknown"
+    },
+    {
+        "name": "Temple University School of Medicine",
+        "latitude": 40.0069874,
+        "longitude": -75.1521988,
+        "country": "Unknown"
+    },
+    {
+        "name": "Niagara University",
+        "latitude": 43.1366577,
+        "longitude": -79.0352386,
+        "country": "Unknown"
+    },
+    {
+        "name": "Southern Vermont College",
+        "latitude": 42.8689561,
+        "longitude": -73.2195124,
+        "country": "Unknown"
+    },
+    {
+        "name": "Southern Connecticut State University",
+        "latitude": 41.3342079,
+        "longitude": -72.9483549,
+        "country": "Unknown"
+    },
+    {
+        "name": "Brandeis University",
+        "latitude": 42.3665542,
+        "longitude": -71.258836,
+        "country": "Unknown"
+    },
+    {
+        "name": "College of Mount Saint Vincent",
+        "latitude": 40.9128309,
+        "longitude": -73.9069701,
+        "country": "Unknown"
+    },
+    {
+        "name": "Chatham University",
+        "latitude": 40.4475581,
+        "longitude": -79.925002,
+        "country": "Unknown"
+    },
+    {
+        "name": "Faculty of Social Science and Humanities (Bordessa Hall)",
+        "latitude": 43.8986173,
+        "longitude": -78.8621179,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Lehigh Valley",
+        "latitude": 40.5591419,
+        "longitude": -75.4035834,
+        "country": "Unknown"
+    },
+    {
+        "name": "Brooklyn College",
+        "latitude": 40.6310463,
+        "longitude": -73.9523652,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rutgers Busch Campus",
+        "latitude": 40.5206748,
+        "longitude": -74.4691662,
+        "country": "Unknown"
+    },
+    {
+        "name": "La Salle University",
+        "latitude": 40.0372868,
+        "longitude": -75.1594488,
+        "country": "Unknown"
+    },
+    {
+        "name": "Northeastern University Marine Science Center",
+        "latitude": 42.4184935,
+        "longitude": -70.9061633,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kara Alumni House",
+        "latitude": 40.0667406,
+        "longitude": -79.8871882,
+        "country": "Unknown"
+    },
+    {
+        "name": "Pennsylvania Western University, California",
+        "latitude": 40.0644491,
+        "longitude": -79.8841875,
+        "country": "Unknown"
+    },
+    {
+        "name": "East Stroudsburg University",
+        "latitude": 40.9979032,
+        "longitude": -75.1655301,
+        "country": "Unknown"
+    },
+    {
+        "name": "The College of New Jersey",
+        "latitude": 40.2685307,
+        "longitude": -74.7777645,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Univerity Applied Research Lab Anechoic Chamber",
+        "latitude": 40.2037822,
+        "longitude": -75.0541753,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard Medical School",
+        "latitude": 42.336861,
+        "longitude": -71.1037822,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard Medical School",
+        "latitude": 42.3359701,
+        "longitude": -71.1011083,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard School of Public Health",
+        "latitude": 42.3355054,
+        "longitude": -71.102265,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard School of Dental Medicine",
+        "latitude": 42.3360726,
+        "longitude": -71.1021729,
+        "country": "Unknown"
+    },
+    {
+        "name": "Hofstra University",
+        "latitude": 40.7168913,
+        "longitude": -73.5999424,
+        "country": "Unknown"
+    },
+    {
+        "name": "Messiah University",
+        "latitude": 40.1574777,
+        "longitude": -76.9856492,
+        "country": "Unknown"
+    },
+    {
+        "name": "Southern New Hampshire University",
+        "latitude": 42.7964936,
+        "longitude": -71.530298,
+        "country": "Unknown"
+    },
+    {
+        "name": "Northeastern University, Burlington Campus",
+        "latitude": 42.4782505,
+        "longitude": -71.1916274,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rhode Island",
+        "latitude": 41.4873077,
+        "longitude": -71.5329634,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clement Hall",
+        "latitude": 42.9576539,
+        "longitude": -78.8146057,
+        "country": "Unknown"
+    },
+    {
+        "name": "Goodyear Hall",
+        "latitude": 42.9571829,
+        "longitude": -78.8155249,
+        "country": "Unknown"
+    },
+    {
+        "name": "Montclair State University",
+        "latitude": 40.8647684,
+        "longitude": -74.196948,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New England",
+        "latitude": 43.4556651,
+        "longitude": -70.3872506,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Berks",
+        "latitude": 40.3596954,
+        "longitude": -75.9717263,
+        "country": "Unknown"
+    },
+    {
+        "name": "Western New England University",
+        "latitude": 42.1125799,
+        "longitude": -72.516509,
+        "country": "Unknown"
+    },
+    {
+        "name": "Parsons School of Design",
+        "latitude": 40.7354663,
+        "longitude": -73.9935047,
+        "country": "Unknown"
+    },
+    {
+        "name": "Saint John's University Queens Campus",
+        "latitude": 40.7216502,
+        "longitude": -73.7946757,
+        "country": "Unknown"
+    },
+    {
+        "name": "The New School",
+        "latitude": 40.7354657,
+        "longitude": -73.9970808,
+        "country": "Unknown"
+    },
+    {
+        "name": "Wunsch Building",
+        "latitude": 40.6943223,
+        "longitude": -73.9848674,
+        "country": "Unknown"
+    },
+    {
+        "name": "The New School Arnold Hall",
+        "latitude": 40.7365785,
+        "longitude": -73.9964883,
+        "country": "Unknown"
+    },
+    {
+        "name": "The New School",
+        "latitude": 40.7355761,
+        "longitude": -73.9943376,
+        "country": "Unknown"
+    },
+    {
+        "name": "13th St. Residence Hall",
+        "latitude": 40.7368893,
+        "longitude": -73.9984442,
+        "country": "Unknown"
+    },
+    {
+        "name": "Keystone College",
+        "latitude": 41.7642406,
+        "longitude": -76.4433794,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lander College for Men",
+        "latitude": 40.724294,
+        "longitude": -73.8143567,
+        "country": "Unknown"
+    },
+    {
+        "name": "Keystone College",
+        "latitude": 41.7639711,
+        "longitude": -76.4433354,
+        "country": "Unknown"
+    },
+    {
+        "name": "William Paterson University - Valley Road Campus",
+        "latitude": 40.9679998,
+        "longitude": -74.2238171,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rutgers Livingston Campus",
+        "latitude": 40.5187356,
+        "longitude": -74.4434244,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard University",
+        "latitude": 42.367874,
+        "longitude": -71.1247657,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kingston Center of SUNY Ulster",
+        "latitude": 41.9230482,
+        "longitude": -73.9988644,
+        "country": "Unknown"
+    },
+    {
+        "name": "Baruch College Newman Vertical Campus",
+        "latitude": 40.7401879,
+        "longitude": -73.9833656,
+        "country": "Unknown"
+    },
+    {
+        "name": "Arnald & Marie Schwartz Hall of Dental Science",
+        "latitude": 40.7379606,
+        "longitude": -73.9784045,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester Mt. Hope Campus",
+        "latitude": 43.137225,
+        "longitude": -77.6141651,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester Mid Campus",
+        "latitude": 43.1192661,
+        "longitude": -77.629934,
+        "country": "Unknown"
+    },
+    {
+        "name": "Konica Minolta Business Solutions",
+        "latitude": 43.0547579,
+        "longitude": -77.6486693,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester River Campus",
+        "latitude": 43.1298328,
+        "longitude": -77.6247422,
+        "country": "Unknown"
+    },
+    {
+        "name": "CUNY Graduate School and University Center",
+        "latitude": 40.7485188,
+        "longitude": -73.9836392,
+        "country": "Unknown"
+    },
+    {
+        "name": "Pennsylvania College of Technology",
+        "latitude": 41.235935,
+        "longitude": -77.0258842,
+        "country": "Unknown"
+    },
+    {
+        "name": "William Paterson University",
+        "latitude": 40.9469196,
+        "longitude": -74.1969545,
+        "country": "Unknown"
+    },
+    {
+        "name": "Eastern Nazarene College",
+        "latitude": 42.2716553,
+        "longitude": -71.011035,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rutgers",
+        "latitude": 40.4929562,
+        "longitude": -74.4451726,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fairleigh Dickinson University",
+        "latitude": 40.8980465,
+        "longitude": -74.0304203,
+        "country": "Unknown"
+    },
+    {
+        "name": "Burley - Demeritt Farm",
+        "latitude": 43.0970706,
+        "longitude": -70.993635,
+        "country": "Unknown"
+    },
+    {
+        "name": "Woodman Horticulture Farm",
+        "latitude": 43.1522309,
+        "longitude": -70.9425255,
+        "country": "Unknown"
+    },
+    {
+        "name": "Thompson Farm",
+        "latitude": 43.1120057,
+        "longitude": -70.950588,
+        "country": "Unknown"
+    },
+    {
+        "name": "East Foss Farm",
+        "latitude": 43.127271,
+        "longitude": -70.9376885,
+        "country": "Unknown"
+    },
+    {
+        "name": "West Foss Farm",
+        "latitude": 43.1230285,
+        "longitude": -70.9461434,
+        "country": "Unknown"
+    },
+    {
+        "name": "Duquesne University",
+        "latitude": 40.4381808,
+        "longitude": -79.9921298,
+        "country": "Unknown"
+    },
+    {
+        "name": "Duquesne University",
+        "latitude": 40.4381001,
+        "longitude": -79.9896682,
+        "country": "Unknown"
+    },
+    {
+        "name": "Duquesne University",
+        "latitude": 40.4386154,
+        "longitude": -79.9943565,
+        "country": "Unknown"
+    },
+    {
+        "name": "Northeastern University",
+        "latitude": 42.3389585,
+        "longitude": -71.088613,
+        "country": "Unknown"
+    },
+    {
+        "name": "Nazareth College",
+        "latitude": 43.1026062,
+        "longitude": -77.5200611,
+        "country": "Unknown"
+    },
+    {
+        "name": "Pace University Pleasantville Campus",
+        "latitude": 41.1286182,
+        "longitude": -73.8076637,
+        "country": "Unknown"
+    },
+    {
+        "name": "Norwich University",
+        "latitude": 44.139112,
+        "longitude": -72.6614219,
+        "country": "Unknown"
+    },
+    {
+        "name": "Wheaton College",
+        "latitude": 41.9670864,
+        "longitude": -71.1837664,
+        "country": "Unknown"
+    },
+    {
+        "name": "Woods Hole Oceanographic Institution",
+        "latitude": 41.5343944,
+        "longitude": -70.648286,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bridgewater State University",
+        "latitude": 41.9877245,
+        "longitude": -70.9715671,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester South Campus",
+        "latitude": 43.1108155,
+        "longitude": -77.6332341,
+        "country": "Unknown"
+    },
+    {
+        "name": "UB Research Institute on Addictions",
+        "latitude": 42.9016568,
+        "longitude": -78.8687854,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lasell University",
+        "latitude": 42.3410303,
+        "longitude": -71.245862,
+        "country": "Unknown"
+    },
+    {
+        "name": "McMaster Centre for Continuing Education",
+        "latitude": 43.2573557,
+        "longitude": -79.8690995,
+        "country": "Unknown"
+    },
+    {
+        "name": "Boston College",
+        "latitude": 42.3354414,
+        "longitude": -71.1696156,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bennington College",
+        "latitude": 42.9206453,
+        "longitude": -73.2385629,
+        "country": "Unknown"
+    },
+    {
+        "name": "Howe Research Building",
+        "latitude": 42.9499372,
+        "longitude": -78.8179099,
+        "country": "Unknown"
+    },
+    {
+        "name": "Devil's Lane Lot and surrounding woods",
+        "latitude": 41.5269659,
+        "longitude": -70.6511945,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kean Ocean Gateway BUilding (GATE)",
+        "latitude": 40.0078124,
+        "longitude": -74.1686311,
+        "country": "Unknown"
+    },
+    {
+        "name": "Colgate University",
+        "latitude": 42.815434,
+        "longitude": -75.5392411,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard University Science and Engineering Complex (SEC)",
+        "latitude": 42.3627372,
+        "longitude": -71.1252262,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Dartmouth",
+        "latitude": 41.6223083,
+        "longitude": -71.007122,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clarion University",
+        "latitude": 41.209857,
+        "longitude": -79.3776696,
+        "country": "Unknown"
+    },
+    {
+        "name": "Southern New Hampshire University",
+        "latitude": 43.0378617,
+        "longitude": -71.4497479,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester Medical Center Campus",
+        "latitude": 43.1231737,
+        "longitude": -77.6252204,
+        "country": "Unknown"
+    },
+    {
+        "name": "St. Peter's University",
+        "latitude": 40.727647,
+        "longitude": -74.0721302,
+        "country": "Unknown"
+    },
+    {
+        "name": "Joseph J. Jaroschak Field",
+        "latitude": 40.7263685,
+        "longitude": -74.093934,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rochester Institute of Technology",
+        "latitude": 43.0638459,
+        "longitude": -77.6982644,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York College at Cortland",
+        "latitude": 42.5927467,
+        "longitude": -76.1988655,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York Delhi",
+        "latitude": 42.2706757,
+        "longitude": -74.9249218,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York Delhi Valley Campus",
+        "latitude": 42.2527585,
+        "longitude": -74.9327861,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Downstate Campus",
+        "latitude": 40.6543179,
+        "longitude": -73.9451865,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Maritime College",
+        "latitude": 40.8071338,
+        "longitude": -73.7960571,
+        "country": "Unknown"
+    },
+    {
+        "name": "Alfred State College",
+        "latitude": 42.2560645,
+        "longitude": -77.7973872,
+        "country": "Unknown"
+    },
+    {
+        "name": "Manhattanville College",
+        "latitude": 41.0321831,
+        "longitude": -73.7160584,
+        "country": "Unknown"
+    },
+    {
+        "name": "Colleges of Nanoscale Science and Engineering, State University of New York Polytechnic Institute",
+        "latitude": 42.6913918,
+        "longitude": -73.8347397,
+        "country": "Unknown"
+    },
+    {
+        "name": "Post University",
+        "latitude": 41.53469,
+        "longitude": -73.082437,
+        "country": "Unknown"
+    },
+    {
+        "name": "Reconstructionist Rabbinical College",
+        "latitude": 40.0876627,
+        "longitude": -75.14941,
+        "country": "Unknown"
+    },
+    {
+        "name": "The New School University Center",
+        "latitude": 40.7354952,
+        "longitude": -73.9934962,
+        "country": "Unknown"
+    },
+    {
+        "name": "Queens College, City University of New York",
+        "latitude": 40.7366106,
+        "longitude": -73.8194795,
+        "country": "Unknown"
+    },
+    {
+        "name": "Queensborough Community College - City University of New York",
+        "latitude": 40.7554669,
+        "longitude": -73.7571845,
+        "country": "Unknown"
+    },
+    {
+        "name": "Quinnipiac University",
+        "latitude": 41.4185744,
+        "longitude": -72.8932164,
+        "country": "Unknown"
+    },
+    {
+        "name": "Quinnipiac University York Hill Campus",
+        "latitude": 41.4143661,
+        "longitude": -72.9109437,
+        "country": "Unknown"
+    },
+    {
+        "name": "Delaware Valley University",
+        "latitude": 40.2936826,
+        "longitude": -75.1595569,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Hazleton",
+        "latitude": 40.9855199,
+        "longitude": -76.0289665,
+        "country": "Unknown"
+    },
+    {
+        "name": "Columbia Residential",
+        "latitude": 40.8150105,
+        "longitude": -73.9606855,
+        "country": "Unknown"
+    },
+    {
+        "name": "Community College of Allegheny County - South Campus",
+        "latitude": 40.3298815,
+        "longitude": -79.9239446,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lattimore Building/URMC",
+        "latitude": 43.1177562,
+        "longitude": -77.623469,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester Mail Services",
+        "latitude": 43.12062,
+        "longitude": -77.6189947,
+        "country": "Unknown"
+    },
+    {
+        "name": "Cornell Tech",
+        "latitude": 40.7547709,
+        "longitude": -73.9564025,
+        "country": "Unknown"
+    },
+    {
+        "name": "New Jersey Institute of Technology",
+        "latitude": 40.7421422,
+        "longitude": -74.1795097,
+        "country": "Unknown"
+    },
+    {
+        "name": "Kean University - Main Campus",
+        "latitude": 40.6793617,
+        "longitude": -74.2351743,
+        "country": "Unknown"
+    },
+    {
+        "name": "Princeton University - Forrestal Campus",
+        "latitude": 40.3457262,
+        "longitude": -74.6146635,
+        "country": "Unknown"
+    },
+    {
+        "name": "Thomas Edison State University",
+        "latitude": 40.2203976,
+        "longitude": -74.7685157,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Atmospheric Sciences Research Center",
+        "latitude": 44.393671,
+        "longitude": -73.8581938,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fitchburg State University",
+        "latitude": 42.5882096,
+        "longitude": -71.7900023,
+        "country": "Unknown"
+    },
+    {
+        "name": "Southern Vermont College",
+        "latitude": 42.8766621,
+        "longitude": -73.2148026,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Great Valley",
+        "latitude": 40.0529775,
+        "longitude": -75.5223466,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Greater Allegheny",
+        "latitude": 40.3462007,
+        "longitude": -79.8264729,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Hershey",
+        "latitude": 40.2655022,
+        "longitude": -76.6733514,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State New Kensington",
+        "latitude": 40.5476137,
+        "longitude": -79.6969854,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Schuylkill",
+        "latitude": 40.6418484,
+        "longitude": -76.1666676,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Wilkes-Barre",
+        "latitude": 41.3063672,
+        "longitude": -76.0139691,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Scranton",
+        "latitude": 41.4407947,
+        "longitude": -75.6211792,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Connecticut Waterbury",
+        "latitude": 41.555933,
+        "longitude": -73.0389986,
+        "country": "Unknown"
+    },
+    {
+        "name": "WHOI - Iselin Dock",
+        "latitude": 41.5241152,
+        "longitude": -70.6715149,
+        "country": "Unknown"
+    },
+    {
+        "name": "Woods Hole Oceanographic Institution",
+        "latitude": 41.5249659,
+        "longitude": -70.6681233,
+        "country": "Unknown"
+    },
+    {
+        "name": "Tully Field Station",
+        "latitude": 42.7961053,
+        "longitude": -76.1188765,
+        "country": "Unknown"
+    },
+    {
+        "name": "Long Island Horticultural Research and Extension Center",
+        "latitude": 40.9600246,
+        "longitude": -72.7135098,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lafayette Road Experiment Station",
+        "latitude": 42.9911218,
+        "longitude": -76.1320427,
+        "country": "Unknown"
+    },
+    {
+        "name": "Saint Michael's College",
+        "latitude": 44.4958474,
+        "longitude": -73.1651872,
+        "country": "Unknown"
+    },
+    {
+        "name": "Stony Brook Southampton",
+        "latitude": 40.8883612,
+        "longitude": -72.4437185,
+        "country": "Unknown"
+    },
+    {
+        "name": "York College the City University of New York",
+        "latitude": 40.7009345,
+        "longitude": -73.7955535,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Buffalo - Downtown Campus",
+        "latitude": 42.897481,
+        "longitude": -78.8674628,
+        "country": "Unknown"
+    },
+    {
+        "name": "Felician University",
+        "latitude": 40.8304903,
+        "longitude": -74.1121028,
+        "country": "Unknown"
+    },
+    {
+        "name": "New Jersey City University",
+        "latitude": 40.7097812,
+        "longitude": -74.0876895,
+        "country": "Unknown"
+    },
+    {
+        "name": "John J. Moore Athletic and Fitness Center (NJCU)",
+        "latitude": 40.7128779,
+        "longitude": -74.0890625,
+        "country": "Unknown"
+    },
+    {
+        "name": "New Jersey City University Art Building",
+        "latitude": 40.7119975,
+        "longitude": -74.0882292,
+        "country": "Unknown"
+    },
+    {
+        "name": "FDU",
+        "latitude": 40.893975,
+        "longitude": -74.0322036,
+        "country": "Unknown"
+    },
+    {
+        "name": "Marywood University",
+        "latitude": 41.4348613,
+        "longitude": -75.6326485,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clarion University of Pennsylvania Venango Campus",
+        "latitude": 41.40951,
+        "longitude": -79.7287302,
+        "country": "Unknown"
+    },
+    {
+        "name": "Gordon-Conwell Theological Seminary",
+        "latitude": 42.6104422,
+        "longitude": -70.8431733,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rhode Island Environmental Education Center",
+        "latitude": 41.6211401,
+        "longitude": -71.7041963,
+        "country": "Unknown"
+    },
+    {
+        "name": "Mercer County Community College",
+        "latitude": 40.2548402,
+        "longitude": -74.6509923,
+        "country": "Unknown"
+    },
+    {
+        "name": "New Hampshire Technical Institute",
+        "latitude": 43.2223132,
+        "longitude": -71.5295224,
+        "country": "Unknown"
+    },
+    {
+        "name": "University Bluffs",
+        "latitude": 40.2852958,
+        "longitude": -73.9826596,
+        "country": "Unknown"
+    },
+    {
+        "name": "Monmouth University",
+        "latitude": 40.2801231,
+        "longitude": -74.005925,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bates College",
+        "latitude": 44.1060006,
+        "longitude": -70.2021019,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York University - Brooklyn campus",
+        "latitude": 40.6938819,
+        "longitude": -73.9857611,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rider University",
+        "latitude": 40.2815628,
+        "longitude": -74.7407837,
+        "country": "Unknown"
+    },
+    {
+        "name": "Temple University - Ambler Campus",
+        "latitude": 40.1665757,
+        "longitude": -75.1950989,
+        "country": "Unknown"
+    },
+    {
+        "name": "Temple University - Health Sciences Campus",
+        "latitude": 40.0046013,
+        "longitude": -75.151578,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lakehead University - Orillia Campus",
+        "latitude": 44.5923193,
+        "longitude": -79.4583204,
+        "country": "Unknown"
+    },
+    {
+        "name": "St. Bonaventure University",
+        "latitude": 42.0774611,
+        "longitude": -78.483075,
+        "country": "Unknown"
+    },
+    {
+        "name": "Sacred Heart West Campus",
+        "latitude": 41.2163154,
+        "longitude": -73.2541483,
+        "country": "Unknown"
+    },
+    {
+        "name": "Holy Family University",
+        "latitude": 40.0599464,
+        "longitude": -74.9864587,
+        "country": "Unknown"
+    },
+    {
+        "name": "Alfred University",
+        "latitude": 42.2559573,
+        "longitude": -77.78541,
+        "country": "Unknown"
+    },
+    {
+        "name": "Genesee Community College",
+        "latitude": 43.0182643,
+        "longitude": -78.1398708,
+        "country": "Unknown"
+    },
+    {
+        "name": "Advanced Energy Research and Technology Center",
+        "latitude": 40.9039234,
+        "longitude": -73.1359329,
+        "country": "Unknown"
+    },
+    {
+        "name": "Holy Family University - Newtown Campus",
+        "latitude": 40.2280147,
+        "longitude": -74.8937646,
+        "country": "Unknown"
+    },
+    {
+        "name": "Mansfield University of Pennsylvania",
+        "latitude": 41.8043438,
+        "longitude": -77.0700037,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Dickinson Law",
+        "latitude": 40.1996835,
+        "longitude": -77.1979727,
+        "country": "Unknown"
+    },
+    {
+        "name": "Dickinson College",
+        "latitude": 40.2027603,
+        "longitude": -77.1995698,
+        "country": "Unknown"
+    },
+    {
+        "name": "Susquehanna University",
+        "latitude": 40.7968367,
+        "longitude": -76.8731855,
+        "country": "Unknown"
+    },
+    {
+        "name": "Millersville University",
+        "latitude": 39.9979718,
+        "longitude": -76.3543138,
+        "country": "Unknown"
+    },
+    {
+        "name": "Philadelphia College of Osteopathic Medicine",
+        "latitude": 40.0044032,
+        "longitude": -75.2151963,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lincoln Technical Institute",
+        "latitude": 40.7064422,
+        "longitude": -74.2750515,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York College of Agriculture and Technology at Cobleskill",
+        "latitude": 42.6689467,
+        "longitude": -74.5026415,
+        "country": "Unknown"
+    },
+    {
+        "name": "University Crossing",
+        "latitude": 42.6495161,
+        "longitude": -71.3241448,
+        "country": "Unknown"
+    },
+    {
+        "name": "The College at Brockport",
+        "latitude": 43.2098735,
+        "longitude": -77.9501102,
+        "country": "Unknown"
+    },
+    {
+        "name": "Wells College",
+        "latitude": 42.7439935,
+        "longitude": -76.6936054,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York Chiropractic College",
+        "latitude": 42.9096136,
+        "longitude": -76.7592806,
+        "country": "Unknown"
+    },
+    {
+        "name": "Long Island University Brooklyn Campus",
+        "latitude": 40.6909368,
+        "longitude": -73.9803692,
+        "country": "Unknown"
+    },
+    {
+        "name": "Ithaca College",
+        "latitude": 42.4197623,
+        "longitude": -76.4959505,
+        "country": "Unknown"
+    },
+    {
+        "name": "College of Staten Island",
+        "latitude": 40.6023608,
+        "longitude": -74.1482242,
+        "country": "Unknown"
+    },
+    {
+        "name": "Salem State University North Campus",
+        "latitude": 42.5023797,
+        "longitude": -70.8911021,
+        "country": "Unknown"
+    },
+    {
+        "name": "Houghton University",
+        "latitude": 42.4263086,
+        "longitude": -78.1548739,
+        "country": "Unknown"
+    },
+    {
+        "name": "Indiana University of Pennsylvania",
+        "latitude": 40.6157807,
+        "longitude": -79.160128,
+        "country": "Unknown"
+    },
+    {
+        "name": "IUP",
+        "latitude": 40.9457585,
+        "longitude": -78.9898299,
+        "country": "Unknown"
+    },
+    {
+        "name": "Seton Hall Interprofessional Health Services Campus",
+        "latitude": 40.8326665,
+        "longitude": -74.1545684,
+        "country": "Unknown"
+    },
+    {
+        "name": "Mount Aloysius College",
+        "latitude": 40.4587338,
+        "longitude": -78.6041811,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York Institute of Technology",
+        "latitude": 40.8080526,
+        "longitude": -73.6060509,
+        "country": "Unknown"
+    },
+    {
+        "name": "Morrisville State College",
+        "latitude": 42.8903337,
+        "longitude": -75.6397003,
+        "country": "Unknown"
+    },
+    {
+        "name": "Seton Hill University",
+        "latitude": 40.3109277,
+        "longitude": -79.5545369,
+        "country": "Unknown"
+    },
+    {
+        "name": "DeSales University",
+        "latitude": 40.5382338,
+        "longitude": -75.3800626,
+        "country": "Unknown"
+    },
+    {
+        "name": "Cold Spring Harbor Laboratory",
+        "latitude": 40.8606204,
+        "longitude": -73.4684587,
+        "country": "Unknown"
+    },
+    {
+        "name": "Moravian University",
+        "latitude": 40.6309072,
+        "longitude": -75.3839424,
+        "country": "Unknown"
+    },
+    {
+        "name": "Elmira College",
+        "latitude": 42.0972123,
+        "longitude": -76.8144389,
+        "country": "Unknown"
+    },
+    {
+        "name": "Binghamton University Downtown Center",
+        "latitude": 42.0956587,
+        "longitude": -75.9149474,
+        "country": "Unknown"
+    },
+    {
+        "name": "Fairleigh Dickinson University",
+        "latitude": 40.7757243,
+        "longitude": -74.4338231,
+        "country": "Unknown"
+    },
+    {
+        "name": "Gwynedd Mercy University",
+        "latitude": 40.1985561,
+        "longitude": -75.2366071,
+        "country": "Unknown"
+    },
+    {
+        "name": "Point Park University",
+        "latitude": 40.4386493,
+        "longitude": -80.0014278,
+        "country": "Unknown"
+    },
+    {
+        "name": "Sacred Heart University Center for Healthcare Education",
+        "latitude": 41.2097067,
+        "longitude": -73.2280411,
+        "country": "Unknown"
+    },
+    {
+        "name": "Northeastern University Dedham Campus",
+        "latitude": 42.2572997,
+        "longitude": -71.1961619,
+        "country": "Unknown"
+    },
+    {
+        "name": "Charlotte Rachel Wilson Campus",
+        "latitude": 40.3149222,
+        "longitude": -74.6681276,
+        "country": "Unknown"
+    },
+    {
+        "name": "Choate Rosemary Hall",
+        "latitude": 41.457615,
+        "longitude": -72.8092929,
+        "country": "Unknown"
+    },
+    {
+        "name": "Immaculata University",
+        "latitude": 40.0286455,
+        "longitude": -75.5704219,
+        "country": "Unknown"
+    },
+    {
+        "name": "Redeemer University",
+        "latitude": 43.2112415,
+        "longitude": -79.9510411,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harcum College",
+        "latitude": 40.0215489,
+        "longitude": -75.3133308,
+        "country": "Unknown"
+    },
+    {
+        "name": "Galbreth farm",
+        "latitude": 42.9030166,
+        "longitude": -75.6374245,
+        "country": "Unknown"
+    },
+    {
+        "name": "Arnold R. Fisher Dairy Complex",
+        "latitude": 42.8819206,
+        "longitude": -75.6495116,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bentley University - North Campus",
+        "latitude": 42.3944931,
+        "longitude": -71.2144002,
+        "country": "Unknown"
+    },
+    {
+        "name": "Tyndale University",
+        "latitude": 43.7979088,
+        "longitude": -79.3907819,
+        "country": "Unknown"
+    },
+    {
+        "name": "The Inn at Villanova University",
+        "latitude": 40.0508449,
+        "longitude": -75.3491039,
+        "country": "Unknown"
+    },
+    {
+        "name": "Brock University - Hamilton Campus",
+        "latitude": 43.2311778,
+        "longitude": -79.8095416,
+        "country": "Unknown"
+    },
+    {
+        "name": "Drexel University Queens Lane Campus",
+        "latitude": 40.0203401,
+        "longitude": -75.1799208,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lancaster Bible College",
+        "latitude": 40.0752966,
+        "longitude": -76.2873217,
+        "country": "Unknown"
+    },
+    {
+        "name": "Judd Gregg Marine Research Complex",
+        "latitude": 43.0704483,
+        "longitude": -70.7132017,
+        "country": "Unknown"
+    },
+    {
+        "name": "Teachers College",
+        "latitude": 40.8102725,
+        "longitude": -73.9603359,
+        "country": "Unknown"
+    },
+    {
+        "name": "Centenary University",
+        "latitude": 40.8470195,
+        "longitude": -74.8346174,
+        "country": "Unknown"
+    },
+    {
+        "name": "Quinnipiac University North Haven Campus",
+        "latitude": 41.4139878,
+        "longitude": -72.834367,
+        "country": "Unknown"
+    },
+    {
+        "name": "Columbia University",
+        "latitude": 40.8079869,
+        "longitude": -73.9616105,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lakes Region Community College",
+        "latitude": 43.5079056,
+        "longitude": -71.4624086,
+        "country": "Unknown"
+    },
+    {
+        "name": "Trent University",
+        "latitude": 44.3572966,
+        "longitude": -78.2910445,
+        "country": "Unknown"
+    },
+    {
+        "name": "Vermont State University (Randolph Campus)",
+        "latitude": 43.9381019,
+        "longitude": -72.6007553,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rosemont College",
+        "latitude": 40.0336396,
+        "longitude": -75.3297685,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New Hampshire School of Law",
+        "latitude": 43.2075119,
+        "longitude": -71.5451178,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rice Creek Field Station",
+        "latitude": 43.4300898,
+        "longitude": -76.5497351,
+        "country": "Unknown"
+    },
+    {
+        "name": "Trent University - Durham GTA Campus",
+        "latitude": 43.8897731,
+        "longitude": -78.8911617,
+        "country": "Unknown"
+    },
+    {
+        "name": "Trent University - Catharine Parr Traill College",
+        "latitude": 44.3112675,
+        "longitude": -78.3268953,
+        "country": "Unknown"
+    },
+    {
+        "name": "Carlow University",
+        "latitude": 40.4389657,
+        "longitude": -79.9635958,
+        "country": "Unknown"
+    },
+    {
+        "name": "McMaster University - DeGroote School of Business",
+        "latitude": 43.3732603,
+        "longitude": -79.7781766,
+        "country": "Unknown"
+    },
+    {
+        "name": "Parsons School of Design",
+        "latitude": 40.7353142,
+        "longitude": -73.9947229,
+        "country": "Unknown"
+    },
+    {
+        "name": "Parsons School of Design",
+        "latitude": 40.7355761,
+        "longitude": -73.9943376,
+        "country": "Unknown"
+    },
+    {
+        "name": "The New School",
+        "latitude": 40.7354236,
+        "longitude": -73.9973507,
+        "country": "Unknown"
+    },
+    {
+        "name": "Parsons School of Design",
+        "latitude": 40.7351539,
+        "longitude": -73.9927268,
+        "country": "Unknown"
+    },
+    {
+        "name": "The New School",
+        "latitude": 40.7365835,
+        "longitude": -73.9963215,
+        "country": "Unknown"
+    },
+    {
+        "name": "The New School",
+        "latitude": 40.7369307,
+        "longitude": -73.9922981,
+        "country": "Unknown"
+    },
+    {
+        "name": "Boston College Weston Observatory",
+        "latitude": 42.3851582,
+        "longitude": -71.3203902,
+        "country": "Unknown"
+    },
+    {
+        "name": "Queen's University - Heating Plant",
+        "latitude": 44.2226058,
+        "longitude": -76.4942997,
+        "country": "Unknown"
+    },
+    {
+        "name": "Beth Madrash Govoha",
+        "latitude": 40.0961168,
+        "longitude": -74.2215701,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clark's Summit University",
+        "latitude": 41.4939383,
+        "longitude": -75.6850257,
+        "country": "Unknown"
+    },
+    {
+        "name": "New England College",
+        "latitude": 43.1760773,
+        "longitude": -71.8233946,
+        "country": "Unknown"
+    },
+    {
+        "name": "College Gardens Apartment Complex",
+        "latitude": 40.4535223,
+        "longitude": -79.9279138,
+        "country": "Unknown"
+    },
+    {
+        "name": "McGowan Institute for Regenerative Medicine",
+        "latitude": 40.4246844,
+        "longitude": -79.9627178,
+        "country": "Unknown"
+    },
+    {
+        "name": "530 Melwood property",
+        "latitude": 40.4572478,
+        "longitude": -79.9540143,
+        "country": "Unknown"
+    },
+    {
+        "name": "Ranger School Main Building",
+        "latitude": 44.1466453,
+        "longitude": -74.9010645,
+        "country": "Unknown"
+    },
+    {
+        "name": "Boston University Medical Campus",
+        "latitude": 42.3404426,
+        "longitude": -71.0661725,
+        "country": "Unknown"
+    },
+    {
+        "name": "Franklin Pierce University",
+        "latitude": 42.7765261,
+        "longitude": -72.0548038,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Behrend",
+        "latitude": 42.1179721,
+        "longitude": -79.9811303,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lesley University Brattle Campus",
+        "latitude": 42.3768662,
+        "longitude": -71.1246379,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lesley University Doble Campus",
+        "latitude": 42.3811132,
+        "longitude": -71.1173792,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clark University",
+        "latitude": 42.2514447,
+        "longitude": -71.8228713,
+        "country": "Unknown"
+    },
+    {
+        "name": "Simmons University",
+        "latitude": 42.3414867,
+        "longitude": -71.1051896,
+        "country": "Unknown"
+    },
+    {
+        "name": "Cornell University Cooperative Extension of Rensselaer County",
+        "latitude": 42.7298195,
+        "longitude": -73.6858939,
+        "country": "Unknown"
+    },
+    {
+        "name": "Boston University Medical Campus",
+        "latitude": 42.3353422,
+        "longitude": -71.0708312,
+        "country": "Unknown"
+    },
+    {
+        "name": "Hartford International University for Religion and Peace",
+        "latitude": 41.7699702,
+        "longitude": -72.7076444,
+        "country": "Unknown"
+    },
+    {
+        "name": "Gordon College",
+        "latitude": 42.5897614,
+        "longitude": -70.8237795,
+        "country": "Unknown"
+    },
+    {
+        "name": "Charter Oak State College",
+        "latitude": 41.6882397,
+        "longitude": -72.768004,
+        "country": "Unknown"
+    },
+    {
+        "name": "Max Kade House",
+        "latitude": 40.7032095,
+        "longitude": -75.2088788,
+        "country": "Unknown"
+    },
+    {
+        "name": "Western Connecticut State University Westside Campus",
+        "latitude": 41.3952468,
+        "longitude": -73.4925367,
+        "country": "Unknown"
+    },
+    {
+        "name": "Saint Anselm College",
+        "latitude": 42.9845314,
+        "longitude": -71.5057188,
+        "country": "Unknown"
+    },
+    {
+        "name": "Research Vessel Endeavor Pier",
+        "latitude": 41.4921754,
+        "longitude": -71.4190633,
+        "country": "Unknown"
+    },
+    {
+        "name": "Pace University",
+        "latitude": 40.7111177,
+        "longitude": -74.0048882,
+        "country": "Unknown"
+    },
+    {
+        "name": "UConn Hartford",
+        "latitude": 41.7625482,
+        "longitude": -72.6721667,
+        "country": "Unknown"
+    },
+    {
+        "name": "UConn New London County Extension Center",
+        "latitude": 41.5116409,
+        "longitude": -72.1025328,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Pittsburgh - Johnstown Campus",
+        "latitude": 40.2668499,
+        "longitude": -78.8236948,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Pittsburgh at Greensburg",
+        "latitude": 40.2760724,
+        "longitude": -79.5333012,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Pittsburgh at Titusville",
+        "latitude": 41.6295198,
+        "longitude": -79.6643837,
+        "country": "Unknown"
+    },
+    {
+        "name": "Widener University Commonwealth Law School",
+        "latitude": 40.3230302,
+        "longitude": -76.8540411,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Connecticut Stamford Campus",
+        "latitude": 41.0570311,
+        "longitude": -73.5432223,
+        "country": "Unknown"
+    },
+    {
+        "name": "Tufts University",
+        "latitude": 42.3495075,
+        "longitude": -71.0627705,
+        "country": "Unknown"
+    },
+    {
+        "name": "Cummings School of Veterinary Medicine at Tufts University",
+        "latitude": 42.2442999,
+        "longitude": -71.6787773,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester Eastman Campus",
+        "latitude": 43.1578447,
+        "longitude": -77.6008218,
+        "country": "Unknown"
+    },
+    {
+        "name": "Salem State University Harrington Campus",
+        "latitude": 42.4989372,
+        "longitude": -70.8922859,
+        "country": "Unknown"
+    },
+    {
+        "name": "Salem State University South Campus",
+        "latitude": 42.4934132,
+        "longitude": -70.8953707,
+        "country": "Unknown"
+    },
+    {
+        "name": "Colby-Sawyer College",
+        "latitude": 43.4140883,
+        "longitude": -71.9725655,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clark University Becker School of Design and Technology",
+        "latitude": 42.2687235,
+        "longitude": -71.812585,
+        "country": "Unknown"
+    },
+    {
+        "name": "Salem State University O'Keefe Center",
+        "latitude": 42.5052712,
+        "longitude": -70.8945299,
+        "country": "Unknown"
+    },
+    {
+        "name": "Uniiversity of Southern Maine - Gorham Campus",
+        "latitude": 43.682698,
+        "longitude": -70.4487227,
+        "country": "Unknown"
+    },
+    {
+        "name": "School of Theology",
+        "latitude": 42.3505055,
+        "longitude": -71.1073614,
+        "country": "Unknown"
+    },
+    {
+        "name": "College of Saint Elizabeth",
+        "latitude": 40.7807108,
+        "longitude": -74.4373034,
+        "country": "Unknown"
+    },
+    {
+        "name": "Joyce Contemplative Center",
+        "latitude": 42.3618481,
+        "longitude": -71.8089916,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New Hampshire at Manchester",
+        "latitude": 42.9871414,
+        "longitude": -71.4688647,
+        "country": "Unknown"
+    },
+    {
+        "name": "Radcliffe Quadrangle",
+        "latitude": 42.3815735,
+        "longitude": -71.1245451,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York Institute of Technology",
+        "latitude": 40.7698384,
+        "longitude": -73.9829529,
+        "country": "Unknown"
+    },
+    {
+        "name": "Northeastern Massachusetts Aquaculture Center",
+        "latitude": 42.5301722,
+        "longitude": -70.871977,
+        "country": "Unknown"
+    },
+    {
+        "name": "Binghamton University Health Sciences Campus",
+        "latitude": 42.1124606,
+        "longitude": -75.9544908,
+        "country": "Unknown"
+    },
+    {
+        "name": "College of Saint Elizabeth",
+        "latitude": 40.7776629,
+        "longitude": -74.4420438,
+        "country": "Unknown"
+    },
+    {
+        "name": "Medaille University",
+        "latitude": 42.9284591,
+        "longitude": -78.8550649,
+        "country": "Unknown"
+    },
+    {
+        "name": "Caldwell University",
+        "latitude": 40.8338425,
+        "longitude": -74.2713641,
+        "country": "Unknown"
+    },
+    {
+        "name": "Columbia Residential",
+        "latitude": 40.8137861,
+        "longitude": -73.9603673,
+        "country": "Unknown"
+    },
+    {
+        "name": "Columbia Residential",
+        "latitude": 40.8132473,
+        "longitude": -73.9610131,
+        "country": "Unknown"
+    },
+    {
+        "name": "Columbia Residential",
+        "latitude": 40.8169443,
+        "longitude": -73.9603685,
+        "country": "Unknown"
+    },
+    {
+        "name": "Felician University Lodi Campus",
+        "latitude": 40.8670762,
+        "longitude": -74.0943443,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York Medical College",
+        "latitude": 41.0848706,
+        "longitude": -73.8098196,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York Medical College",
+        "latitude": 41.0826244,
+        "longitude": -73.8147572,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York Medical College",
+        "latitude": 41.0850849,
+        "longitude": -73.8177028,
+        "country": "Unknown"
+    },
+    {
+        "name": "North Country Community College",
+        "latitude": 44.31914,
+        "longitude": -74.1196659,
+        "country": "Unknown"
+    },
+    {
+        "name": "North Country Community College",
+        "latitude": 44.3173486,
+        "longitude": -74.1154072,
+        "country": "Unknown"
+    },
+    {
+        "name": "North Country Community College",
+        "latitude": 44.3236276,
+        "longitude": -74.1218934,
+        "country": "Unknown"
+    },
+    {
+        "name": "Helene Fuld College of Nursing",
+        "latitude": 40.8023384,
+        "longitude": -73.9434516,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Sullivan County Community College",
+        "latitude": 41.7626206,
+        "longitude": -74.6688805,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Sullivan County Community College",
+        "latitude": 41.7719518,
+        "longitude": -74.667912,
+        "country": "Unknown"
+    },
+    {
+        "name": "Misericordia University Upper Campus",
+        "latitude": 41.3459004,
+        "longitude": -75.9709004,
+        "country": "Unknown"
+    },
+    {
+        "name": "Misericordia University Lower Campus",
+        "latitude": 41.3385791,
+        "longitude": -75.9660608,
+        "country": "Unknown"
+    },
+    {
+        "name": "Misericordia University Lower Campus Residence",
+        "latitude": 41.3398296,
+        "longitude": -75.9658185,
+        "country": "Unknown"
+    },
+    {
+        "name": "Machell Avenue Residence Hall",
+        "latitude": 41.3356788,
+        "longitude": -75.964126,
+        "country": "Unknown"
+    },
+    {
+        "name": "United States Military Academy",
+        "latitude": 41.3925531,
+        "longitude": -73.9673673,
+        "country": "Unknown"
+    },
+    {
+        "name": "Keene State College",
+        "latitude": 42.9255408,
+        "longitude": -72.2823975,
+        "country": "Unknown"
+    },
+    {
+        "name": "Iona University",
+        "latitude": 40.9266527,
+        "longitude": -73.7866646,
+        "country": "Unknown"
+    },
+    {
+        "name": "Saint Francis University",
+        "latitude": 40.5055038,
+        "longitude": -78.6391337,
+        "country": "Unknown"
+    },
+    {
+        "name": "Massachusetts Maritime Academy",
+        "latitude": 41.7397864,
+        "longitude": -70.6239353,
+        "country": "Unknown"
+    },
+    {
+        "name": "Weill Medical College of Cornell University",
+        "latitude": 40.7648291,
+        "longitude": -73.954579,
+        "country": "Unknown"
+    },
+    {
+        "name": "Weill Medical College of Cornell University",
+        "latitude": 40.7103055,
+        "longitude": -74.0049616,
+        "country": "Unknown"
+    },
+    {
+        "name": "Salus University",
+        "latitude": 40.0864439,
+        "longitude": -75.1298773,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New Haven",
+        "latitude": 41.2958292,
+        "longitude": -72.965423,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New Haven",
+        "latitude": 41.2871079,
+        "longitude": -72.956663,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard Science Center",
+        "latitude": 42.3764225,
+        "longitude": -71.1167162,
+        "country": "Unknown"
+    },
+    {
+        "name": "Massachusetts Institute of Technology",
+        "latitude": 42.359473,
+        "longitude": -71.0944109,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rivier University",
+        "latitude": 42.7391716,
+        "longitude": -71.454888,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Vermont",
+        "latitude": 44.4756165,
+        "longitude": -73.1947399,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Pittsburgh",
+        "latitude": 40.4535177,
+        "longitude": -79.9741587,
+        "country": "Unknown"
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "latitude": 40.444547,
+        "longitude": -79.9446957,
+        "country": "Unknown"
+    },
+    {
+        "name": "Harvard University",
+        "latitude": 42.371734,
+        "longitude": -71.123261,
+        "country": "Unknown"
+    },
+    {
+        "name": "La Salle University",
+        "latitude": 40.0379956,
+        "longitude": -75.1573528,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lehigh University Asa Packer Campus",
+        "latitude": 40.6041545,
+        "longitude": -75.3702081,
+        "country": "Unknown"
+    },
+    {
+        "name": "New Jersey Institute of Technology",
+        "latitude": 40.7421422,
+        "longitude": -74.1795097,
+        "country": "Unknown"
+    },
+    {
+        "name": "OCAD University",
+        "latitude": 43.6517537,
+        "longitude": -79.3903741,
+        "country": "Unknown"
+    },
+    {
+        "name": "Wheelock College",
+        "latitude": 42.3426309,
+        "longitude": -71.1087179,
+        "country": "Unknown"
+    },
+    {
+        "name": "Yeshiva University - Wilf Campus",
+        "latitude": 40.8504372,
+        "longitude": -73.92926,
+        "country": "Unknown"
+    },
+    {
+        "name": "Borough of Manhattan Community College",
+        "latitude": 40.7186687,
+        "longitude": -74.0118476,
+        "country": "Unknown"
+    },
+    {
+        "name": "Tufts University",
+        "latitude": 42.4064392,
+        "longitude": -71.1178505,
+        "country": "Unknown"
+    },
+    {
+        "name": "Montgomery County Community College - West Campus",
+        "latitude": 40.2446832,
+        "longitude": -75.6541309,
+        "country": "Unknown"
+    },
+    {
+        "name": "Yale University",
+        "latitude": 41.290007,
+        "longitude": -72.9588123,
+        "country": "Unknown"
+    },
+    {
+        "name": "Northeastern University",
+        "latitude": 42.3402359,
+        "longitude": -71.0883307,
+        "country": "Unknown"
+    },
+    {
+        "name": "Syracuse University",
+        "latitude": 43.0268774,
+        "longitude": -76.1260775,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Connecticut Avery Point",
+        "latitude": 41.3175917,
+        "longitude": -72.0639628,
+        "country": "Unknown"
+    },
+    {
+        "name": "Pratt Institute",
+        "latitude": 40.6911396,
+        "longitude": -73.9643559,
+        "country": "Unknown"
+    },
+    {
+        "name": "Academic Podium",
+        "latitude": 42.6861674,
+        "longitude": -73.8239742,
+        "country": "Unknown"
+    },
+    {
+        "name": "St. Peter's University",
+        "latitude": 40.7269793,
+        "longitude": -74.0804294,
+        "country": "Unknown"
+    },
+    {
+        "name": "Upstate University Downtown Campus",
+        "latitude": 43.0433303,
+        "longitude": -76.1417321,
+        "country": "Unknown"
+    },
+    {
+        "name": "Middlebury College",
+        "latitude": 44.003815,
+        "longitude": -73.1763325,
+        "country": "Unknown"
+    },
+    {
+        "name": "Saint Lawrence University",
+        "latitude": 44.5871939,
+        "longitude": -75.1486239,
+        "country": "Unknown"
+    },
+    {
+        "name": "Princeton University",
+        "latitude": 40.3379596,
+        "longitude": -74.6515354,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Abington",
+        "latitude": 40.1152775,
+        "longitude": -75.1108162,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State Altoona",
+        "latitude": 40.5292623,
+        "longitude": -78.4104757,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State DuBois",
+        "latitude": 41.127056,
+        "longitude": -78.7515074,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York State Agricultural Experiment Station",
+        "latitude": 42.8763665,
+        "longitude": -77.0077615,
+        "country": "Unknown"
+    },
+    {
+        "name": "Boston University",
+        "latitude": 42.3503635,
+        "longitude": -71.1090251,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Scranton",
+        "latitude": 41.4053412,
+        "longitude": -75.6630755,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bucknell University",
+        "latitude": 40.9517607,
+        "longitude": -76.8880194,
+        "country": "Unknown"
+    },
+    {
+        "name": "Seton Hall University School of Law",
+        "latitude": 40.7366979,
+        "longitude": -74.166398,
+        "country": "Unknown"
+    },
+    {
+        "name": "Sacred Heart University",
+        "latitude": 41.217878,
+        "longitude": -73.2421092,
+        "country": "Unknown"
+    },
+    {
+        "name": "Franklin & Marshall College",
+        "latitude": 40.0489386,
+        "longitude": -76.3195637,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Lowell",
+        "latitude": 42.6484286,
+        "longitude": -71.3295043,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lafayette College",
+        "latitude": 40.714686,
+        "longitude": -75.2221854,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Valley Forge",
+        "latitude": 40.119047,
+        "longitude": -75.5503505,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Maine at Farmington",
+        "latitude": 44.6671981,
+        "longitude": -70.1482146,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rhode Island School of Design",
+        "latitude": 41.7788923,
+        "longitude": -71.3662618,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rensselaer Polytechnic Institute",
+        "latitude": 42.7318044,
+        "longitude": -73.6735907,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Boston",
+        "latitude": 42.3167044,
+        "longitude": -71.0406979,
+        "country": "Unknown"
+    },
+    {
+        "name": "Princeton Theological Seminary",
+        "latitude": 40.3444457,
+        "longitude": -74.6662673,
+        "country": "Unknown"
+    },
+    {
+        "name": "Wesleyan University",
+        "latitude": 41.5522617,
+        "longitude": -72.6584779,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Massachusetts Amherst",
+        "latitude": 42.3870227,
+        "longitude": -72.5230946,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York at Oswego",
+        "latitude": 43.4514046,
+        "longitude": -76.5424546,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rutgers Cook-Douglass Campus",
+        "latitude": 40.4697288,
+        "longitude": -74.4256929,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rutgers-New Brunswick",
+        "latitude": 40.5146179,
+        "longitude": -74.4579569,
+        "country": "Unknown"
+    },
+    {
+        "name": "Suffolk University",
+        "latitude": 42.3576166,
+        "longitude": -71.061147,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lesley University Porter Campus",
+        "latitude": 42.3822703,
+        "longitude": -71.1209193,
+        "country": "Unknown"
+    },
+    {
+        "name": "Clark University",
+        "latitude": 42.2523029,
+        "longitude": -71.8326127,
+        "country": "Unknown"
+    },
+    {
+        "name": "Simmons University",
+        "latitude": 42.3401576,
+        "longitude": -71.102904,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rhode Island Alton Jones Campus",
+        "latitude": 41.6199096,
+        "longitude": -71.7157673,
+        "country": "Unknown"
+    },
+    {
+        "name": "Central Connecticut State University",
+        "latitude": 41.6928601,
+        "longitude": -72.764929,
+        "country": "Unknown"
+    },
+    {
+        "name": "Cornell University",
+        "latitude": 42.4590009,
+        "longitude": -76.3585094,
+        "country": "Unknown"
+    },
+    {
+        "name": "Eastern Connecticut State University",
+        "latitude": 41.7195055,
+        "longitude": -72.2196881,
+        "country": "Unknown"
+    },
+    {
+        "name": "Trinity College",
+        "latitude": 41.7474109,
+        "longitude": -72.6897829,
+        "country": "Unknown"
+    },
+    {
+        "name": "Holy Apostles College and Seminary",
+        "latitude": 41.6068474,
+        "longitude": -72.6464916,
+        "country": "Unknown"
+    },
+    {
+        "name": "Salve Regina University",
+        "latitude": 41.471689,
+        "longitude": -71.3022273,
+        "country": "Unknown"
+    },
+    {
+        "name": "Plymouth State University",
+        "latitude": 43.7612861,
+        "longitude": -71.6862045,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rhode Island Narragansett Bay Campus",
+        "latitude": 41.4906189,
+        "longitude": -71.4219545,
+        "country": "Unknown"
+    },
+    {
+        "name": "Worcester Polytechnic Institute",
+        "latitude": 42.2766632,
+        "longitude": -71.8079906,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bentley University",
+        "latitude": 42.385846,
+        "longitude": -71.2215609,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Hartford",
+        "latitude": 41.795179,
+        "longitude": -72.7106238,
+        "country": "Unknown"
+    },
+    {
+        "name": "Roger Williams University",
+        "latitude": 41.6505605,
+        "longitude": -71.2587085,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Bridgeport",
+        "latitude": 41.1647599,
+        "longitude": -73.1912303,
+        "country": "Unknown"
+    },
+    {
+        "name": "Union College",
+        "latitude": 42.8178967,
+        "longitude": -73.929842,
+        "country": "Unknown"
+    },
+    {
+        "name": "Adelphi University",
+        "latitude": 40.7198224,
+        "longitude": -73.6519398,
+        "country": "Unknown"
+    },
+    {
+        "name": "Goodwin University",
+        "latitude": 41.7434029,
+        "longitude": -72.6400551,
+        "country": "Unknown"
+    },
+    {
+        "name": "St. Joseph's University",
+        "latitude": 40.690686,
+        "longitude": -73.9681709,
+        "country": "Unknown"
+    },
+    {
+        "name": "WPI South Village",
+        "latitude": 42.2672676,
+        "longitude": -71.8097882,
+        "country": "Unknown"
+    },
+    {
+        "name": "Farmingdale State College (SUNY)",
+        "latitude": 40.7537775,
+        "longitude": -73.4320606,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Connecticut",
+        "latitude": 41.8149518,
+        "longitude": -72.2513294,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Connecticut Depot Campus",
+        "latitude": 41.8074715,
+        "longitude": -72.296183,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rutgers Biomedical and Health Sciences",
+        "latitude": 40.7413938,
+        "longitude": -74.1880338,
+        "country": "Unknown"
+    },
+    {
+        "name": "Rutgers University Newark",
+        "latitude": 40.7417833,
+        "longitude": -74.1741583,
+        "country": "Unknown"
+    },
+    {
+        "name": "Alvernia University",
+        "latitude": 40.3213864,
+        "longitude": -75.9342732,
+        "country": "Unknown"
+    },
+    {
+        "name": "Worcester State University",
+        "latitude": 42.2677973,
+        "longitude": -71.8436369,
+        "country": "Unknown"
+    },
+    {
+        "name": "Worcester State University School of Science, Technology, and Health",
+        "latitude": 42.2686418,
+        "longitude": -71.8118344,
+        "country": "Unknown"
+    },
+    {
+        "name": "Sarah Lawrence College",
+        "latitude": 40.9346298,
+        "longitude": -73.8456985,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Geneseo",
+        "latitude": 42.7946744,
+        "longitude": -77.8227335,
+        "country": "Unknown"
+    },
+    {
+        "name": "Medgar Evers College",
+        "latitude": 40.6666554,
+        "longitude": -73.9555397,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Plattsburgh",
+        "latitude": 44.6890093,
+        "longitude": -73.4712404,
+        "country": "Unknown"
+    },
+    {
+        "name": "Johnson and Wales University Providence Downcity Campus",
+        "latitude": 41.8233664,
+        "longitude": -71.4179623,
+        "country": "Unknown"
+    },
+    {
+        "name": "Johnson and Wales University Providence Harborside Campus",
+        "latitude": 41.786314,
+        "longitude": -71.3917705,
+        "country": "Unknown"
+    },
+    {
+        "name": "Brown University",
+        "latitude": 41.8295691,
+        "longitude": -71.4002852,
+        "country": "Unknown"
+    },
+    {
+        "name": "College of Saint Rose",
+        "latitude": 42.6506859,
+        "longitude": -73.7762465,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Albany, The State University of New York",
+        "latitude": 42.6843492,
+        "longitude": -73.8252272,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York at Binghamton",
+        "latitude": 42.0971521,
+        "longitude": -75.948071,
+        "country": "Unknown"
+    },
+    {
+        "name": "Binghamton University Innovative Technologies Complex",
+        "latitude": 42.0935268,
+        "longitude": -75.9596686,
+        "country": "Unknown"
+    },
+    {
+        "name": "La Salle University",
+        "latitude": 40.0379956,
+        "longitude": -75.1573528,
+        "country": "Unknown"
+    },
+    {
+        "name": "Saint Josephs College of Maine",
+        "latitude": 43.8267093,
+        "longitude": -70.4828628,
+        "country": "Unknown"
+    },
+    {
+        "name": "Penn State University",
+        "latitude": 40.8025861,
+        "longitude": -77.860601,
+        "country": "Unknown"
+    },
+    {
+        "name": "Lock Haven University",
+        "latitude": 41.1411181,
+        "longitude": -77.4605447,
+        "country": "Unknown"
+    },
+    {
+        "name": "Connecticut College",
+        "latitude": 41.3793389,
+        "longitude": -72.1035666,
+        "country": "Unknown"
+    },
+    {
+        "name": "Stony Brook University",
+        "latitude": 40.9090436,
+        "longitude": -73.1188464,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York at Buffalo",
+        "latitude": 42.9547614,
+        "longitude": -78.820403,
+        "country": "Unknown"
+    },
+    {
+        "name": "University at Albany, The State University of New York",
+        "latitude": 42.658662,
+        "longitude": -73.7854438,
+        "country": "Unknown"
+    },
+    {
+        "name": "Bay Path University",
+        "latitude": 42.0523699,
+        "longitude": -72.5841589,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York City College of Technology",
+        "latitude": 40.697328,
+        "longitude": -73.9869439,
+        "country": "Unknown"
+    },
+    {
+        "name": "Dartmouth College",
+        "latitude": 43.7053511,
+        "longitude": -72.2897339,
+        "country": "Unknown"
+    },
+    {
+        "name": "School of Visual Arts",
+        "latitude": 40.7415841,
+        "longitude": -73.9907497,
+        "country": "Unknown"
+    },
+    {
+        "name": "New York Medical College",
+        "latitude": 41.0845633,
+        "longitude": -73.8129983,
+        "country": "Unknown"
+    },
+    {
+        "name": "SUNY Sullivan County Community College",
+        "latitude": 41.7658058,
+        "longitude": -74.6688805,
+        "country": "Unknown"
+    },
+    {
+        "name": "Misericordia University",
+        "latitude": 41.3430446,
+        "longitude": -75.9699629,
+        "country": "Unknown"
+    },
+    {
+        "name": "Weill Medical College of Cornell University",
+        "latitude": 40.737988,
+        "longitude": -73.9790206,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of Rochester Memorial Art Gallery Campus",
+        "latitude": 43.1577047,
+        "longitude": -77.5881724,
+        "country": "Unknown"
+    },
+    {
+        "name": "New England Institute of Technology",
+        "latitude": 41.6603201,
+        "longitude": -71.5023422,
+        "country": "Unknown"
+    },
+    {
+        "name": "University of New Hampshire",
+        "latitude": 43.1380938,
+        "longitude": -70.9414862,
+        "country": "Unknown"
+    },
+    {
+        "name": "Brock University",
+        "latitude": 43.1348498,
+        "longitude": -79.2480501,
+        "country": "Unknown"
+    },
+    {
+        "name": "Drexel University - Queen Lane Campus",
+        "latitude": 40.0194525,
+        "longitude": -75.1799075,
+        "country": "Unknown"
+    },
+    {
+        "name": "Toronto Metropolitan University",
+        "latitude": 43.6576732,
+        "longitude": -79.3794245,
+        "country": "Unknown"
+    },
+    {
+        "name": "Ontario Tech University",
+        "latitude": 43.9483637,
+        "longitude": -78.8973113,
+        "country": "Unknown"
+    },
+    {
+        "name": "State University of New York at Old Westbury",
+        "latitude": 40.7937812,
+        "longitude": -73.5653597,
+        "country": "Unknown"
+    }
+]
