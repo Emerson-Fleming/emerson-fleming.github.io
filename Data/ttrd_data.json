@@ -37,7 +37,7 @@
           {
             "name": "Bryan Escatel Jimenez",
             "major": "Electrical",
-            "position": "",
+            "position": "Professional Development",
             "eboard": "",
             "email": "Bryan.escatel9@gmail.com",
             "resume": "https://emerson-fleming.github.io/Resumes/bryan_resume.pdf",
@@ -48,7 +48,7 @@
           {
             "name": "Emerson Fleming",
             "major": "Computer Science",
-            "position": "Technology and Recruitment",
+            "position": "Technology",
             "eboard": "",
             "email": "efleming@nevada.unr.edu",
             "resume": "",
@@ -70,7 +70,7 @@
           {
             "name": "McKenna Johnson",
             "major": "Civil",
-            "position": "Historian",
+            "position": "Brotherhood",
             "eboard": "",
             "email": "mckennajohnson@nevada.unr.edu",
             "resume": "",
@@ -81,8 +81,8 @@
           {
             "name": "Megan Kershaw",
             "major": "Electrical",
-            "position": "Intramurals",
-            "eboard": "",
+            "position": "",
+            "eboard": "Scribe",
             "email": "megankershaw@nevada.unr.edu",
             "resume": "",
             "image": "https://emerson-fleming.github.io/Images/megan_kershaw.jpeg",
@@ -114,7 +114,7 @@
           {
             "name": "Jana Navarro",
             "major": "Biochemistry",
-            "position": "Historian",
+            "position": "",
             "eboard": "",
             "email": "jmnavrr@gmail.com",
             "resume": "",
@@ -125,7 +125,7 @@
           {
             "name": "Cade Schiller",
             "major": "Mechanical",
-            "position": "",
+            "position": "Community Service",
             "eboard": "",
             "email": "cschiller@nevada.unr.edu",
             "resume": "",
@@ -147,7 +147,7 @@
           {
             "name": "Valerie Valdivia",
             "major": "Environmental Science",
-            "position": "Recruitment",
+            "position": "Fundraising",
             "eboard": "",
             "email": "valerie.valdivia@outlook.com",
             "resume": "",
@@ -182,7 +182,7 @@
           {
             "name": "Maya Abraham",
             "major": "Environmental",
-            "position": "Projects",
+            "position": "",
             "eboard": "",
             "email": "mabraham@nevada.unr.edu",
             "resume": "",
@@ -194,7 +194,7 @@
             "name": "Guilherme Cassiano",
             "major": "Computer Science",
             "position": "",
-            "eboard": "Guardian",
+            "eboard": "",
             "email": "gcassiano@nevada.unr.edu",
             "resume": "",
             "image": "",
@@ -248,7 +248,7 @@
           {
             "name": "Joshua Herup",
             "major": "Computer Science",
-            "position": "",
+            "position": "Technology",
             "eboard": "",
             "email": "joshua@herup.com",
             "resume": "",
@@ -303,7 +303,7 @@
           {
             "name": "Alyse Schultz",
             "major": "Civil",
-            "position": "",
+            "position": "Historian",
             "eboard": "",
             "email": "alyseschultz@nevada.unr.edu",
             "resume": "",
@@ -325,7 +325,7 @@
           {
             "name": "Tayshawn Williams",
             "major": "Electrical",
-            "position": "",
+            "position": "Projects",
             "eboard": "",
             "email": "tayshawn@nevada.unr.edu",
             "resume": "",
@@ -347,17 +347,6 @@
               "linkedin": ""
           },
           {
-              "name": "Jarrod Burke",
-              "major": "Electrical",
-              "position": "Fundraising",
-              "eboard": "",
-              "email": "Jarrodburke@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/jarrod_burke.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
               "name": "Fiorina Chau",
               "major": "Computer Science",
               "position": "",
@@ -371,7 +360,7 @@
           {
               "name": "Alicia Chiang",
               "major": "Computer Science",
-              "position": "",
+              "position": "Historian",
               "eboard": "",
               "email": "aliciachiang@nevada.unr.edu",
               "resume": "",
@@ -393,8 +382,8 @@
           {
               "name": "Jayce Esplin",
               "major": "Chemical",
-              "position": "",
-              "eboard": "Scribe",
+              "position": "Intramurals",
+              "eboard": "",
               "email": "jayceesplin@gmail.com",
               "resume": "",
               "image": "https://emerson-fleming.github.io/Images/jayce_esplin.jpeg",
@@ -437,7 +426,7 @@
           {
               "name": "Amberlee Ketten",
               "major": "Civil",
-              "position": "Brotherhood",
+              "position": "",
               "eboard": "",
               "email": "amberleeketten@nevada.unr.edu",
               "resume": "",
@@ -459,8 +448,8 @@
           {
               "name": "Grant Korte",
               "major": "Biomedical",
-              "position": "",
-              "eboard": "Marshal",
+              "position": "Recruitment",
+              "eboard": "PNM Instructor",
               "email": "grantkorte@nevada.unr.edu",
               "resume": "",
               "image": "https://emerson-fleming.github.io/Images/grant_korte.jpeg",
@@ -470,7 +459,7 @@
           {
               "name": "Zeyad Lateef",
               "major": "Electrical",
-              "position": "",
+              "position": "Recruitment",
               "eboard": "",
               "email": "grantkorte@nevada.unr.edu",
               "resume": "",
@@ -485,14 +474,14 @@
               "eboard": "Vice Regent",
               "email": "rloranz@nevada.unr.edu",
               "resume": "",
-              "image": "",
-              "credit": "",
+              "image": "https://emerson-fleming.github.io/Images/rowan_loranz.jpeg",
+              "credit": "PC: Alicia Chiang",
               "linkedin": "http://linkedin.com/in/rowan-loranz-b61726222"
           },
           {
               "name": "Ajith Mathew",
               "major": "Environmental",
-              "position": "Professional Development",
+              "position": "",
               "eboard": "",
               "email": "ajmathew117@gmail.com",
               "resume": "https://emerson-fleming.github.io/Resumes/aj_resume.pdf",
@@ -593,7 +582,7 @@
           {
               "name": "Brian Hill",
               "major": "Electrical",
-              "position": "",
+              "position": "Recruitment",
               "eboard": "",
               "email": "Learnerhill@gmail.com",
               "resume": "",
@@ -691,17 +680,6 @@
               "resume": "",
               "image": "https://emerson-fleming.github.io/Images/aiden_hechavarria.jpeg",
               "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Connor Jordan",
-              "major": "Electrical",
-              "position": "",
-              "eboard": "",
-              "email": "cbjordan@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
               "linkedin": ""
           },
           {
