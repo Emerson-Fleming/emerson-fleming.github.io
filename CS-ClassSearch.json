@@ -1,0 +1,491 @@
+[
+    [
+        "CS 135 - Computer Science I",
+        [
+            {
+                "Class": "24254",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 12:00PM - 1:15PM",
+                "Room": "SEM 101",
+                "Instructor": "Erin Keith"
+            },
+            {
+                "Class": "24255",
+                "Section": "1101-LAB",
+                "Days & Times": "Mo 8:00AM - 8:50AM",
+                "Room": "WPEB 100",
+                "Instructor": "Erin Keith"
+            },
+            {
+                "Class": "24256",
+                "Section": "1102-LAB",
+                "Days & Times": "Mo 9:00AM - 9:50AM",
+                "Room": "WPEB 100",
+                "Instructor": "Erin Keith"
+            },
+            {
+                "Class": "24262",
+                "Section": "1103-LAB",
+                "Days & Times": "Mo 10:00AM - 10:50AM",
+                "Room": "WPEB 100",
+                "Instructor": "Erin Keith"
+            },
+            {
+                "Class": "24270",
+                "Section": "1104-LAB",
+                "Days & Times": "Mo 11:00AM - 11:50AM",
+                "Room": "WPEB 100",
+                "Instructor": "Erin Keith"
+            },
+            {
+                "Class": "24369",
+                "Section": "1105-LAB",
+                "Days & Times": "Mo 12:00PM - 12:50PM",
+                "Room": "WPEB 100",
+                "Instructor": "Erin Keith"
+            },
+            {
+                "Class": "24370",
+                "Section": "1106-LAB",
+                "Days & Times": "Mo 1:00PM - 1:50PM",
+                "Room": "WPEB 100",
+                "Instructor": "Erin Keith"
+            }
+        ]
+    ],
+    [
+        "CS 202 - Computer Science II",
+        [
+            {
+                "Class": "24257",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 12:00PM - 1:15PM",
+                "Room": "DMSC 110",
+                "Instructor": "Bashira Akter Anima"
+            },
+            {
+                "Class": "24259",
+                "Section": "1102-LAB",
+                "Days & Times": "We 9:00AM - 9:50AM",
+                "Room": "WPEB 100",
+                "Instructor": "Bashira Akter Anima"
+            },
+            {
+                "Class": "24260",
+                "Section": "1103-LAB",
+                "Days & Times": "We 10:00AM - 10:50AM",
+                "Room": "WPEB 100",
+                "Instructor": "Bashira Akter Anima"
+            },
+            {
+                "Class": "24261",
+                "Section": "1104-LAB",
+                "Days & Times": "We 11:00AM - 11:50AM",
+                "Room": "WPEB 100",
+                "Instructor": "Bashira Akter Anima"
+            },
+            {
+                "Class": "24331",
+                "Section": "1105-LAB",
+                "Days & Times": "We 12:00PM - 12:50PM",
+                "Room": "WPEB 100",
+                "Instructor": "Bashira Akter Anima"
+            }
+        ]
+    ],
+    [
+        "CS 219 - Computer Organization",
+        [
+            {
+                "Class": "24299",
+                "Section": "1001-LEC",
+                "Days & Times": "MoWe 4:00PM - 5:15PM",
+                "Room": "SLH 2",
+                "Instructor": "Bashira Akter Anima"
+            }
+        ]
+    ],
+    [
+        "CS 252 - Digital Forensics Fundamentals",
+        [
+            {
+                "Class": "24296",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 10:30AM - 11:45AM",
+                "Room": "LME 321",
+                "Instructor": "Nancy Latourrette"
+            }
+        ]
+    ],
+    [
+        "CS 302 - Data Structures",
+        [
+            {
+                "Class": "24251",
+                "Section": "1001-LEC",
+                "Days & Times": "MoWe 1:00PM - 2:15PM",
+                "Room": "MS 215",
+                "Instructor": "Erin Keith"
+            }
+        ]
+    ],
+    [
+        "CS 326 - Programming Languages, Concepts and Implementation",
+        [
+            {
+                "Class": "24288",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 9:00AM - 10:15AM",
+                "Room": "DMSC 105",
+                "Instructor": "Mircea Nicolescu"
+            }
+        ]
+    ],
+    [
+        "CS 333 - Testing and DevOps",
+        [
+            {
+                "Class": "24414",
+                "Section": "1001-LEC",
+                "Days & Times": "Tu 4:30PM - 7:15PM",
+                "Room": "WPEB 100",
+                "Instructor": "Erin Keith"
+            }
+        ]
+    ],
+    [
+        "CS 365 - Mathematics of Computer Science",
+        [
+            {
+                "Class": "24252",
+                "Section": "1001-LEC",
+                "Days & Times": "Fr 1:00PM - 3:45PM",
+                "Room": "DMSC 105",
+                "Instructor": "Diana Moss"
+            }
+        ]
+    ],
+    [
+        "CS 381 - Game Engine Architecture",
+        [
+            {
+                "Class": "24312",
+                "Section": "1001-LEC",
+                "Days & Times": "MoWe 2:30PM - 3:45PM",
+                "Room": "WPEB 100",
+                "Instructor": "Joshua Dahl"
+            }
+        ]
+    ],
+    [
+        "CS 426 - Senior Projects in Computer Science",
+        [
+            {
+                "Class": "24264",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 10:30AM - 11:45AM",
+                "Room": "SEM 101",
+                "Instructor": "Dave Feil-Seifer,"
+            },
+            {
+                "Class": "32609",
+                "Section": "1002-LEC",
+                "Days & Times": "TuTh 10:30AM - 11:45AM",
+                "Room": "SEM 101",
+                "Instructor": "Dave Feil-Seifer,"
+            }
+        ]
+    ],
+    [
+        "CS 431 - Introduction to Big Data",
+        [
+            {
+                "Class": "24410",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 4:30PM - 5:45PM",
+                "Room": "DMSC 102",
+                "Instructor": "Lei Yang"
+            }
+        ]
+    ],
+    [
+        "CS 445 - Internet Security",
+        [
+            {
+                "Class": "24297",
+                "Section": "1001-LEC",
+                "Days & Times": "MoWe 1:00PM - 2:15PM",
+                "Room": "SLH 3",
+                "Instructor": "Shamik Sengupta"
+            }
+        ]
+    ],
+    [
+        "CS 446 - Principles of Operating Systems",
+        [
+            {
+                "Class": "24253",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 3:00PM - 4:15PM",
+                "Room": "JTB 100",
+                "Instructor": "Sara Davis"
+            }
+        ]
+    ],
+    [
+        "CS 453 - Mobile Computing Security and Privacy",
+        [
+            {
+                "Class": "24335",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 3:00PM - 4:15PM",
+                "Room": "WPEB 100",
+                "Instructor": "William Doherty"
+            }
+        ]
+    ],
+    [
+        "CS 455 - Mobile Sensor Networks",
+        [
+            {
+                "Class": "24408",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 9:00AM - 10:15AM",
+                "Room": "WRB 2023",
+                "Instructor": "Hung La"
+            }
+        ]
+    ],
+    [
+        "CS 456 - Automata and Formal Languages",
+        [
+            {
+                "Class": "24265",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 12:00PM - 1:15PM",
+                "Room": "SLH 2",
+                "Instructor": "Nancy Latourrette"
+            }
+        ]
+    ],
+    [
+        "CS 457 - Database Management Systems",
+        [
+            {
+                "Class": "24337",
+                "Section": "1001-LEC",
+                "Days & Times": "MoWe 2:30PM - 3:45PM",
+                "Room": "DMSC 104",
+                "Instructor": "Erin Keith"
+            }
+        ]
+    ],
+    [
+        "CS 477 - Analysis of Algorithms",
+        [
+            {
+                "Class": "24267",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 1:30PM - 2:45PM",
+                "Room": "DMSC 110",
+                "Instructor": "Monica Nicolescu"
+            }
+        ]
+    ],
+    [
+        "CS 479 - Pattern Recognition",
+        [
+            {
+                "Class": "24404",
+                "Section": "1001-LEC",
+                "Days & Times": "MoWe 1:00PM - 2:15PM",
+                "Room": "WPEB 200",
+                "Instructor": "George Bebis"
+            }
+        ]
+    ],
+    [
+        "CS 484 - Virtual Reality",
+        [
+            {
+                "Class": "24347",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 1:30PM - 2:45PM",
+                "Room": "AB 101",
+                "Instructor": "Eelke Folmer"
+            }
+        ]
+    ],
+    [
+        "CS 485 - Computer Vision",
+        [
+            {
+                "Class": "24266",
+                "Section": "1001-LEC",
+                "Days & Times": "TuTh 9:00AM - 10:15AM",
+                "Room": "WPEB 200",
+                "Instructor": "Emily Hand"
+            }
+        ]
+    ],
+    [
+        "CS 487 - Fundamentals of Deep Learning",
+        [
+            {
+                "Class": "24385",
+                "Section": "1001-LEC",
+                "Days & Times": "MoWe 4:00PM - 5:15PM",
+                "Room": "DMSC 102",
+                "Instructor": "Alireza Tavakkoli"
+            }
+        ]
+    ],
+    [
+        "CS 491 - Topics",
+        [
+            {
+                "Class": "24382",
+                "Section": "1003-LEC",
+                "Days & Times": "Fr 1:00PM - 3:45PM",
+                "Room": "PSAC 114",
+                "Instructor": "Jordan Hastings"
+            },
+            {
+                "Class": "24389",
+                "Section": "1006-LEC",
+                "Days & Times": "TuTh 4:30PM - 5:45PM",
+                "Room": "PSAC 114",
+                "Instructor": "Christos Papachristos"
+            }
+        ]
+    ],
+    [
+        "CS 493 - Directed Study in Computer Science",
+        [
+            {
+                "Class": "24395",
+                "Section": "1001-LEC",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Monica Nicolescu"
+            },
+            {
+                "Class": "24417",
+                "Section": "1002-LEC",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Frederick Harris"
+            },
+            {
+                "Class": "31835",
+                "Section": "1004-LEC",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Nancy Latourrette"
+            },
+            {
+                "Class": "32297",
+                "Section": "1005-LEC",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Rui Hu"
+            },
+            {
+                "Class": "32719",
+                "Section": "1006-LEC",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Dave Feil-Seifer"
+            }
+        ]
+    ],
+    [
+        "CS 494 - Internship in Computer Science",
+        [
+            {
+                "Class": "24250",
+                "Section": "1001-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Emily Hand"
+            },
+            {
+                "Class": "24268",
+                "Section": "1002-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Nancy Latourrette"
+            },
+            {
+                "Class": "24269",
+                "Section": "1003-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Shamik Sengupta"
+            },
+            {
+                "Class": "24274",
+                "Section": "1004-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Monica Nicolescu"
+            },
+            {
+                "Class": "24305",
+                "Section": "1005-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Frederick Harris"
+            },
+            {
+                "Class": "24308",
+                "Section": "1006-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Sushil Louis"
+            },
+            {
+                "Class": "24310",
+                "Section": "1007-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Dave Feil-Seifer"
+            },
+            {
+                "Class": "24329",
+                "Section": "1010-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Mircea Nicolescu"
+            },
+            {
+                "Class": "24420",
+                "Section": "1012-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Erin Keith"
+            },
+            {
+                "Class": "24421",
+                "Section": "1013-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Sara Davis"
+            },
+            {
+                "Class": "32317",
+                "Section": "1015-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Batyr Charyyev"
+            },
+            {
+                "Class": "32841",
+                "Section": "1016-INT",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Eelke Folmer"
+            }
+        ]
+    ]
+]
