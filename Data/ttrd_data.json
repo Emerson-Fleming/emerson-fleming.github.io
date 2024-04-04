@@ -1,711 +1,732 @@
 {
-  "members": {
-      "Phi": [
-          {
-            "name": "Ashley Byrne",
-            "major": "Mechanical",
-            "position": "",
-            "eboard": "",
-            "email": "ashleybyrne12765@gmail.com",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Julia Dampier",
-            "major": "Biotechnology",
-            "position": "",
-            "eboard": "",
-            "email": "juliadampier@gmail.com",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Max Dunlay",
-            "major": "Electrical",
-            "position": "",
-            "eboard": "",
-            "email": "maxadunlay@gmail.com",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Bryan Escatel Jimenez",
-            "major": "Electrical",
-            "position": "Professional Development",
-            "eboard": "",
-            "email": "Bryan.escatel9@gmail.com",
-            "resume": "https://emerson-fleming.github.io/Resumes/bryan_resume.pdf",
-            "image": "https://emerson-fleming.github.io/Images/bryan_escatel_jimenez.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": "https://www.linkedin.com/in/bryan-escatel/"
-          },
-          {
-            "name": "Emerson Fleming",
-            "major": "Computer Science",
-            "position": "Technology",
-            "eboard": "",
-            "email": "efleming@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/emerson_fleming.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": "https://www.linkedin.com/in/emersonfleming/"
-          },
-          {
-            "name": "Morgan Hendrickson",
-            "major": "Environmental",
-            "position": "",
-            "eboard": "",
-            "email": "Morgan.hendrickson@icloud.com",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/morgan_hendrickson.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "McKenna Johnson",
-            "major": "Civil",
-            "position": "Brotherhood",
-            "eboard": "",
-            "email": "mckennajohnson@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/mckenna_johnson.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Megan Kershaw",
-            "major": "Electrical",
-            "position": "",
-            "eboard": "Scribe",
-            "email": "megankershaw@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/megan_kershaw.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Aleena Kureekattil",
-            "major": "Biomedical",
-            "position": "Academics",
-            "eboard": "",
-            "email": "akureekattil@nevada.unr.edu",
-            "resume": "https://emerson-fleming.github.io/Resumes/aleena_resume.pdf",
-            "image": "https://emerson-fleming.github.io/Images/aleena_kureekattil.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": "https://www.linkedin.com/in/aleena-kureekattil-49b71520a"
-          },
-          {
-            "name": "Sean Morton",
-            "major": "Mining",
-            "position": "",
-            "eboard": "",
-            "email": "sean.a.morton1791@gmail.com",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/sean_morton.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Jana Navarro",
-            "major": "Biochemistry",
-            "position": "",
-            "eboard": "",
-            "email": "jmnavrr@gmail.com",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/jana_navarro.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Cade Schiller",
-            "major": "Mechanical",
-            "position": "Community Service",
-            "eboard": "",
-            "email": "cschiller@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Terrence Silva",
-            "major": "Mechanical",
-            "position": "",
-            "eboard": "",
-            "email": "terrencesilva5@gmail.com",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Valerie Valdivia",
-            "major": "Environmental Science",
-            "position": "Fundraising",
-            "eboard": "",
-            "email": "valerie.valdivia@outlook.com",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/valerie_valdivia.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Nihara Wijekularatne",
-            "major": "Biotechnology",
-            "position": "",
-            "eboard": "",
-            "email": "niharawijekularatne@gmail.com",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/nihara_wijekularatne.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          }
-      ],
-      "Upsilon": [
-          {
-            "name": "Isabella Abraham",
-            "major": "Environmental",
-            "position": "",
-            "eboard": "",
-            "email": "iabraham@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/isabella_abraham.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Maya Abraham",
-            "major": "Environmental",
-            "position": "",
-            "eboard": "",
-            "email": "mabraham@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Guilherme Cassiano",
-            "major": "Computer Science",
-            "position": "",
-            "eboard": "",
-            "email": "gcassiano@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Melody Dorsey",
-            "major": "Electrical",
-            "position": "",
-            "eboard": "",
-            "email": "melodydorsey@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Brayden Fontanilla",
-            "major": "Mechanical",
-            "position": "",
-            "eboard": "",
-            "email": "braydenf@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/brayden_fontanilla.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Haley Grable",
-            "major": "Environmental",
-            "position": "",
-            "eboard": "",
-            "email": "hgrable@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Nolan Hagen",
-            "major": "Mechanical",
-            "position": "",
-            "eboard": "",
-            "email": "nolanhagen@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Joshua Herup",
-            "major": "Computer Science",
-            "position": "Technology",
-            "eboard": "",
-            "email": "joshua@herup.com",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/josh_herup.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": "https://www.linkedin.com/in/jherup"
-          },
-          {
-            "name": "Jenavieve Layosa",
-            "major": "Computer Science",
-            "position": "",
-            "eboard": "",
-            "email": "jlayosa@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Kyla Lowery",
-            "major": "Civil",
-            "position": "",
-            "eboard": "",
-            "email": "kylalowery@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/kyla_lowery.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Shane Petree",
-            "major": "Computer Science",
-            "position": "",
-            "eboard": "",
-            "email": "spetree@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/shane_petree.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": "https://www.linkedin.com/in/shane-petree-4b8822232"
-          },
-          {
-            "name": "Tanner Schultz",
-            "major": "Mechanical",
-            "position": "",
-            "eboard": "Marshal",
-            "email": "tannerschultz@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/tanner_schultz.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Alyse Schultz",
-            "major": "Civil",
-            "position": "Historian",
-            "eboard": "",
-            "email": "alyseschultz@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/alyse_schultz.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          },
-          {
-            "name": "Helen Truong",
-            "major": "Computer Science",
-            "position": "",
-            "eboard": "",
-            "email": "helen.truong@nevada.unr.edu",
-            "resume": "",
-            "image": "",
-            "credit": "",
-            "linkedin": ""
-          },
-          {
-            "name": "Tayshawn Williams",
-            "major": "Electrical",
-            "position": "Projects",
-            "eboard": "",
-            "email": "tayshawn@nevada.unr.edu",
-            "resume": "",
-            "image": "https://emerson-fleming.github.io/Images/tayshawn_williams.jpeg",
-            "credit": "PC: Alicia Chiang",
-            "linkedin": ""
-          }
-      ],
-      "Tau": [
-          {
-              "name": "Isabelle Amanuel",
-              "major": "Electrical",
-              "position": "",
-              "eboard": "",
-              "email": "iamanuel99@gmail.com",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/isabelle_amanuel.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Fiorina Chau",
-              "major": "Computer Science",
-              "position": "",
-              "eboard": "",
-              "email": "Fchau@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/fiorina_chau.jpeg",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Alicia Chiang",
-              "major": "Computer Science",
-              "position": "Historian",
-              "eboard": "",
-              "email": "aliciachiang@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/alicia_chiang.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Samantha Connolly",
-              "major": "Electrical",
-              "position": "",
-              "eboard": "",
-              "email": "samanthaconnolly45@gmail.com",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": "https://www.linkedin.com/in/samantha-connolly-8069a7222"
-          },
-          {
-              "name": "Jayce Esplin",
-              "major": "Chemical",
-              "position": "Intramurals",
-              "eboard": "",
-              "email": "jayceesplin@gmail.com",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/jayce_esplin.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Lauren Feldman",
-              "major": "Computer Sceince",
-              "position": "",
-              "eboard": "",
-              "email": "lfeldman@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Ethan Hanson",
-              "major": "Electrical",
-              "position": "",
-              "eboard": "Corresponding Secretary",
-              "email": "ethanporterman@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/ethan_hanson.jpeg",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Josh James",
-              "major": "Biomedical",
-              "position": "",
-              "eboard": "",
-              "email": "joshjames@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Amberlee Ketten",
-              "major": "Civil",
-              "position": "",
-              "eboard": "",
-              "email": "amberleeketten@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/amberlee_ketten.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Amanda Knowles",
-              "major": "Civil",
-              "position": "",
-              "eboard": "",
-              "email": "amandaknowles@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/amanda_knowles.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": "https://www.linkedin.com/in/amanda-knowles-390846222/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
-          },
-          {
-              "name": "Grant Korte",
-              "major": "Biomedical",
-              "position": "Recruitment",
-              "eboard": "PNM Instructor",
-              "email": "grantkorte@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/grant_korte.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Zeyad Lateef",
-              "major": "Electrical",
-              "position": "Recruitment",
-              "eboard": "",
-              "email": "grantkorte@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Rowan Loranz",
-              "major": "Chemical",
-              "position": "",
-              "eboard": "Vice Regent",
-              "email": "rloranz@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/rowan_loranz.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": "http://www.linkedin.com/in/rowan-loranz-b61726222"
-          },
-          {
-              "name": "Ajith Mathew",
-              "major": "Environmental",
-              "position": "",
-              "eboard": "",
-              "email": "ajmathew117@gmail.com",
-              "resume": "https://emerson-fleming.github.io/Resumes/aj_resume.pdf",
-              "image": "https://emerson-fleming.github.io/Images/ajith_mathew.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": "https://www.linkedin.com/in/ajith-mathew-969449222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-          },
-          {
-              "name": "Timothy Ngo",
-              "major": "Computer Science",
-              "position": "",
-              "eboard": "",
-              "email": "timothyngo@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/timothy_ngo.jpeg",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Tiffany Noda",
-              "major": "Mechanical",
-              "position": "",
-              "eboard": "",
-              "email": "tnoda@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/tiffany_noda.jpeg",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Kim Ortega",
-              "major": "Biomedical",
-              "position": "",
-              "eboard": "",
-              "email": "kortega@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Alyssa Reichert",
-              "major": "Civil",
-              "position": "",
-              "eboard": "",
-              "email": "areichert@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/alyssa_reichert.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Dani Rinne",
-              "major": "Computer Science",
-              "position": "",
-              "eboard": "",
-              "email": "drinne@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/dani_rinne.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Sharyn Smith",
-              "major": "Computer Science",
-              "position": "",
-              "eboard": "",
-              "email": "sharyns@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Blake Spence",
-              "major": "Mechanical",
-              "position": "",
-              "eboard": "",
-              "email": "blakespence@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Kaden Syme",
-              "major": "Mechanical",
-              "position": "",
-              "eboard": "Treasurer",
-              "email": "Kadensyme@gmail.com",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/kaden_syme.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": "https://www.linkedin.com/in/kaden-syme-ba7264221"
-          }
-      ],
-      "Sigma": [
-          {
-              "name": "Brian Hill",
-              "major": "Electrical",
-              "position": "Recruitment",
-              "eboard": "",
-              "email": "Learnerhill@gmail.com",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/brian_hill.jpeg",
-              "credit": "",
-              "linkedin": "https://www.linkedin.com/in/brian-hill-02bb40209"
-          },
-          {
-              "name": "Daniela Pinto",
-              "major": "Environmental",
-              "position": "",
-              "eboard": "",
-              "email": "Dpinto@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          },
-          {
-              "name": "Isabella Costa",
-              "major": "Electrical",
-              "position": "",
-              "eboard": "",
-              "email": "icosta@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/isabella_costa.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Kyra Talusik",
-              "major": "Mechanical",
-              "position": "",
-              "eboard": "",
-              "email": "Kyratalu6@gmail.com",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/kyra_talusik.jpeg",
-              "credit": "",
-              "linkedin": "https://www.linkedin.com/in/kyratalusik/"
-          },
-          {
-              "name": "Patricia Paylor",
-              "major": "Biomedical",
-              "position": "",
-              "eboard": "Regent",
-              "email": "ppaylor@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/patricia_paylor.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Sophia Summerhill",
-              "major": "Mechanical",
-              "position": "",
-              "eboard": "",
-              "email": "vsummerhill@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          }
-      ],
-      "Rho": [
-          {
-              "name": "Jansen Williams",
-              "major": "Civil",
-              "position": "",
-              "eboard": "",
-              "email": "jansenw@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          }
-      ],
-      "Pi": [
-          {
-              "name": "Chantelle Cabanilla",
-              "major": "Computer Science",
-              "position": "",
-              "eboard": "",
-              "email": "Chantelle.Marie.cab@gmail.com",
-              "resume": "https://emerson-fleming.github.io/Resumes/chantelle_resume.pdf",
-              "image": "",
-              "credit": "",
-              "linkedin": "https://www.linkedin.com/in/chantelle-cabanilla-574a94245/"
-          },
-          {
-              "name": "Aiden Hechavarria",
-              "major": "Civil",
-              "position": "",
-              "eboard": "",
-              "email": "Ahechavarria@nevada.unr.edu",
-              "resume": "",
-              "image": "https://emerson-fleming.github.io/Images/aiden_hechavarria.jpeg",
-              "credit": "PC: Alicia Chiang",
-              "linkedin": ""
-          },
-          {
-              "name": "Sloan Williams",
-              "major": "Mechanical",
-              "position": "",
-              "eboard": "",
-              "email": "sloanwoods@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          }
-      ],
-      "Mu": [
-          {
-              "name": "Bryce Ford",
-              "major": "Mechanical",
-              "position": "",
-              "eboard": "",
-              "email": "Brycef@nevada.unr.edu",
-              "resume": "",
-              "image": "",
-              "credit": "",
-              "linkedin": ""
-          }
+  "classes": [
+    {
+      "name": "Phi",
+      "members": [
+        {
+          "name": "Ashley Byrne",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "ashleybyrne12765@gmail.com",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Julia Dampier",
+          "major": "Biotechnology",
+          "position": "",
+          "eboard": "",
+          "email": "juliadampier@gmail.com",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Max Dunlay",
+          "major": "Electrical",
+          "position": "",
+          "eboard": "",
+          "email": "maxadunlay@gmail.com",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Bryan Escatel Jimenez",
+          "major": "Electrical",
+          "position": "Professional Development",
+          "eboard": "",
+          "email": "Bryan.escatel9@gmail.com",
+          "resume": "https://emerson-fleming.github.io/Resumes/bryan_resume.pdf",
+          "image": "https://emerson-fleming.github.io/Images/bryan_escatel_jimenez.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/bryan-escatel/"
+        },
+        {
+          "name": "Emerson Fleming",
+          "major": "Computer Science",
+          "position": "Technology",
+          "eboard": "",
+          "email": "efleming@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/emerson_fleming.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/emersonfleming/"
+        },
+        {
+          "name": "Morgan Hendrickson",
+          "major": "Environmental",
+          "position": "",
+          "eboard": "",
+          "email": "Morgan.hendrickson@icloud.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/morgan_hendrickson.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "McKenna Johnson",
+          "major": "Civil",
+          "position": "Brotherhood",
+          "eboard": "",
+          "email": "mckennajohnson@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/mckenna_johnson.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Megan Kershaw",
+          "major": "Electrical",
+          "position": "",
+          "eboard": "Scribe",
+          "email": "megankershaw@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/megan_kershaw.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Aleena Kureekattil",
+          "major": "Biomedical",
+          "position": "Academics",
+          "eboard": "",
+          "email": "akureekattil@nevada.unr.edu",
+          "resume": "https://emerson-fleming.github.io/Resumes/aleena_resume.pdf",
+          "image": "https://emerson-fleming.github.io/Images/aleena_kureekattil.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/aleena-kureekattil-49b71520a"
+        },
+        {
+          "name": "Sean Morton",
+          "major": "Mining",
+          "position": "",
+          "eboard": "",
+          "email": "sean.a.morton1791@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/sean_morton.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Jana Navarro",
+          "major": "Biochemistry",
+          "position": "",
+          "eboard": "",
+          "email": "jmnavrr@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/jana_navarro.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Cade Schiller",
+          "major": "Mechanical",
+          "position": "Community Service",
+          "eboard": "",
+          "email": "cschiller@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Terrence Silva",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "terrencesilva5@gmail.com",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Valerie Valdivia",
+          "major": "Environmental Science",
+          "position": "Fundraising",
+          "eboard": "",
+          "email": "valerie.valdivia@outlook.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/valerie_valdivia.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Nihara Wijekularatne",
+          "major": "Biotechnology",
+          "position": "",
+          "eboard": "",
+          "email": "niharawijekularatne@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/nihara_wijekularatne.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        }
       ]
-  }
+    },
+    {
+      "name": "Upsilon",
+      "members": [
+        {
+          "name": "Isabella Abraham",
+          "major": "Environmental",
+          "position": "",
+          "eboard": "",
+          "email": "iabraham@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/isabella_abraham.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Maya Abraham",
+          "major": "Environmental",
+          "position": "",
+          "eboard": "",
+          "email": "mabraham@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Guilherme Cassiano",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "gcassiano@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Melody Dorsey",
+          "major": "Electrical",
+          "position": "",
+          "eboard": "",
+          "email": "melodydorsey@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Brayden Fontanilla",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "braydenf@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/brayden_fontanilla.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Haley Grable",
+          "major": "Environmental",
+          "position": "",
+          "eboard": "",
+          "email": "hgrable@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Nolan Hagen",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "nolanhagen@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Joshua Herup",
+          "major": "Computer Science",
+          "position": "Technology",
+          "eboard": "",
+          "email": "joshua@herup.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/josh_herup.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/jherup"
+        },
+        {
+          "name": "Jenavieve Layosa",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "jlayosa@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Kyla Lowery",
+          "major": "Civil",
+          "position": "",
+          "eboard": "",
+          "email": "kylalowery@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/kyla_lowery.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Shane Petree",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "spetree@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/shane_petree.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/shane-petree-4b8822232"
+        },
+        {
+          "name": "Tanner Schultz",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "Marshal",
+          "email": "tannerschultz@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/tanner_schultz.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Alyse Schultz",
+          "major": "Civil",
+          "position": "Historian",
+          "eboard": "",
+          "email": "alyseschultz@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/alyse_schultz.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Helen Truong",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "helen.truong@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Tayshawn Williams",
+          "major": "Electrical",
+          "position": "Projects",
+          "eboard": "",
+          "email": "tayshawn@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/tayshawn_williams.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Tau",
+      "members": [
+        {
+          "name": "Isabelle Amanuel",
+          "major": "Electrical",
+          "position": "",
+          "eboard": "",
+          "email": "iamanuel99@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/isabelle_amanuel.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Fiorina Chau",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "Fchau@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/fiorina_chau.jpeg",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Alicia Chiang",
+          "major": "Computer Science",
+          "position": "Historian",
+          "eboard": "",
+          "email": "aliciachiang@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/alicia_chiang.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Samantha Connolly",
+          "major": "Electrical",
+          "position": "",
+          "eboard": "",
+          "email": "samanthaconnolly45@gmail.com",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": "https://www.linkedin.com/in/samantha-connolly-8069a7222"
+        },
+        {
+          "name": "Jayce Esplin",
+          "major": "Chemical",
+          "position": "Intramurals",
+          "eboard": "",
+          "email": "jayceesplin@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/jayce_esplin.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Lauren Feldman",
+          "major": "Computer Sceince",
+          "position": "",
+          "eboard": "",
+          "email": "lfeldman@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Ethan Hanson",
+          "major": "Electrical",
+          "position": "",
+          "eboard": "Corresponding Secretary",
+          "email": "ethanporterman@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/ethan_hanson.jpeg",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Josh James",
+          "major": "Biomedical",
+          "position": "",
+          "eboard": "",
+          "email": "joshjames@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Amberlee Ketten",
+          "major": "Civil",
+          "position": "",
+          "eboard": "",
+          "email": "amberleeketten@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/amberlee_ketten.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Amanda Knowles",
+          "major": "Civil",
+          "position": "",
+          "eboard": "",
+          "email": "amandaknowles@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/amanda_knowles.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/amanda-knowles-390846222/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        },
+        {
+          "name": "Grant Korte",
+          "major": "Biomedical",
+          "position": "Recruitment",
+          "eboard": "PNM Instructor",
+          "email": "grantkorte@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/grant_korte.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Zeyad Lateef",
+          "major": "Electrical",
+          "position": "Recruitment",
+          "eboard": "",
+          "email": "grantkorte@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Rowan Loranz",
+          "major": "Chemical",
+          "position": "",
+          "eboard": "Vice Regent",
+          "email": "rloranz@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/rowan_loranz.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "http://www.linkedin.com/in/rowan-loranz-b61726222"
+        },
+        {
+          "name": "Ajith Mathew",
+          "major": "Environmental",
+          "position": "",
+          "eboard": "",
+          "email": "ajmathew117@gmail.com",
+          "resume": "https://emerson-fleming.github.io/Resumes/aj_resume.pdf",
+          "image": "https://emerson-fleming.github.io/Images/ajith_mathew.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/ajith-mathew-969449222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+          "name": "Timothy Ngo",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "timothyngo@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/timothy_ngo.jpeg",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Tiffany Noda",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "tnoda@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/tiffany_noda.jpeg",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Kim Ortega",
+          "major": "Biomedical",
+          "position": "",
+          "eboard": "",
+          "email": "kortega@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Alyssa Reichert",
+          "major": "Civil",
+          "position": "",
+          "eboard": "",
+          "email": "areichert@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/alyssa_reichert.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Dani Rinne",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "drinne@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/dani_rinne.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Sharyn Smith",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "sharyns@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Blake Spence",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "blakespence@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Kaden Syme",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "Treasurer",
+          "email": "Kadensyme@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/kaden_syme.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": "https://www.linkedin.com/in/kaden-syme-ba7264221"
+        }
+      ]
+    },
+    {
+      "name": "Sigma",
+      "members": [
+        {
+          "name": "Brian Hill",
+          "major": "Electrical",
+          "position": "Recruitment",
+          "eboard": "",
+          "email": "Learnerhill@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/brian_hill.jpeg",
+          "credit": "",
+          "linkedin": "https://www.linkedin.com/in/brian-hill-02bb40209"
+        },
+        {
+          "name": "Daniela Pinto",
+          "major": "Environmental",
+          "position": "",
+          "eboard": "",
+          "email": "Dpinto@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Isabella Costa",
+          "major": "Electrical",
+          "position": "",
+          "eboard": "",
+          "email": "icosta@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/isabella_costa.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Kyra Talusik",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "Kyratalu6@gmail.com",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/kyra_talusik.jpeg",
+          "credit": "",
+          "linkedin": "https://www.linkedin.com/in/kyratalusik/"
+        },
+        {
+          "name": "Patricia Paylor",
+          "major": "Biomedical",
+          "position": "",
+          "eboard": "Regent",
+          "email": "ppaylor@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/patricia_paylor.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Sophia Summerhill",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "vsummerhill@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Rho",
+      "members": [
+        {
+          "name": "Jansen Williams",
+          "major": "Civil",
+          "position": "",
+          "eboard": "",
+          "email": "jansenw@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Pi",
+      "members": [
+        {
+          "name": "Chantelle Cabanilla",
+          "major": "Computer Science",
+          "position": "",
+          "eboard": "",
+          "email": "Chantelle.Marie.cab@gmail.com",
+          "resume": "https://emerson-fleming.github.io/Resumes/chantelle_resume.pdf",
+          "image": "",
+          "credit": "",
+          "linkedin": "https://www.linkedin.com/in/chantelle-cabanilla-574a94245/"
+        },
+        {
+          "name": "Aiden Hechavarria",
+          "major": "Civil",
+          "position": "",
+          "eboard": "",
+          "email": "Ahechavarria@nevada.unr.edu",
+          "resume": "",
+          "image": "https://emerson-fleming.github.io/Images/aiden_hechavarria.jpeg",
+          "credit": "PC: Alicia Chiang",
+          "linkedin": ""
+        },
+        {
+          "name": "Sloan Williams",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "sloanwoods@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Mu",
+      "members": [
+        {
+          "name": "Bryce Ford",
+          "major": "Mechanical",
+          "position": "",
+          "eboard": "",
+          "email": "Brycef@nevada.unr.edu",
+          "resume": "",
+          "image": "",
+          "credit": "",
+          "linkedin": ""
+        }
+      ]
+    }
+  ]
 }
